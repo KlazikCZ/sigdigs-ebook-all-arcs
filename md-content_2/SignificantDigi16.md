@@ -1,0 +1,186 @@
+﻿Sudden But Inevitable Betrayal
+======================
+
+
+*It is notable that when Grindelwald took power, and when he acquired the services of the Vég Hírnökei, and when he gathered the support of a legion of Muggles, he did it all with kindness, persuasion, and reason. He flouted the International Statute of Secrecy, he murdered his enemies with a free hand, and he made war upon the leaders of any magical state that refused him: but he did it all with the willing support of his subordinates. And in this, he was like the lesser shadow that visited the world years later, this time from Britain. Voldemort, too, found volunteers and ready warriors. With this in mind, then, perhaps we must ask different questions. We have spent much time asking, “What was wrong with them?” But perhaps our question should be: “What is wrong with us?”*
+
+<cite>Bathilda Bagshot, *The Shape of Societies*</cite>
+
+
+
+------------------------------------------------------------------------
+
+
+*Those of pusaunce and all natures bilis and phlegma and sanguis and melas withall were bound to come by the flames, for Merlin compelled by libation their attendance. The princeps incantatorum seiden, “My daies grow short. Come to me here in my seat of power, and obeisaunce rendere.”*
+
+*Þei came in attendaunce to him and sat before him in the stone towre of his will, and he seiden, “The land of Atlas bore not up, and though they did their will upon all men and now men of will are not one hundredth part of a hundredth part, still there is dome. I will tell you the shape of it.”*
+
+<cite>Harry Lowe, *The Transmygracioun*, passus octavus</cite>
+
+
+
+------------------------------------------------------------------------
+
+
+“Hullo, Lawrence, Annabeth,” Mr. Potter said, nodding to Lawrence and Annabeth. “And Mr. Carrow, hullo. It’s nice to see you all.”
+
+Lawrence could see how terrified Annabeth was, and knew he must look about the same. Her dark brown skin had gone grey, and she stank of acrid sweat and fear. There was a black scorch mark all along the left side of her Hogwarts robes, and she was trembling.
+
+Carrow, on the other hand, was calm -- even amused. He had thick clots of black blood caked on him in different spots, that a hasty *Scourgify* had failed to clean away. “We thought we’d come visit you, on the direction of Lord and Lady Malfoy, Mr. Potter.”
+
+Harry didn’t reply, but only turned to regard Lawrence. “You have been gone from school for -- what, a couple of weeks? How has it been for you?”
+
+Lawrence couldn’t make himself say anything. He tried, but just choked: his tongue felt too big for his mouth, and his throat was dry.
+
+His life had become a nightmare… a whirlwind series of horrors and subterfuges. After he and Annabeth were caught, he’d spent a miserable night lying in his bed in the Slytherin dungeons, staring up at the ceiling and torturing himself with regret. It had almost been a relief when he received a message from a glowering Auror Pirrip, the next morning. But that relief had curdled almost immediately, as he read about his instructions and the ones he was supposed to pass on to Annabeth. He was given background information about their “new beliefs,” supporting details about specific phrases to use around others to show his turn of heart (“I never thought I’d say this, but the Honourable are on to something… I can’t believe what I saw in that place”), a packet of “stolen parchments,” and complicated instructions on how he was to proceed with the spying.
+
+He’d been escorted out of Hogwarts by Pip, later that day, and left to his own devices in Diagon Alley. Once there, he was supposed to go to Whizz Hard Books… but he couldn’t make himself do it without his stomach clenching up like a cramp. He’d bought a butterbeer at a corner shop, but he couldn’t even drink it: there was something wrong with it and it tasted so sickly sweet that it made him feel even worse. Before he could screw up the courage to go to Whizz Hard Books and ask Buzzy Lieflat how he could “uphold tradition,” he’d needed to spend fifteen minutes in the public toilet, sitting in a stall and staring blankly at the wall and hoping something would happen to just fix everything.
+
+They’d been very accommodating at Whizz Hard -- Buzzy was a kind man -- and sent him on to Tallow and Hemp in Knockturn. When he’d gotten there, though, the two fat proprietors pretended not to know what he was talking about. They wouldn’t help him, but wouldn’t let him leave, either. “Sit down over there and shut up,” Mr. Enser told him.
+
+Eventually, a scraggly little man had shown up to take him somewhere and cast a million spells he didn’t know, and then someone *else* showed up to blindfold him, and then he was taken to meet the Malfoys, deadly and elegant, where he’d followed all his memorized instructions and told them all the lies he was supposed to. And all the while he was terrified. *Terrified*. And Mr. Carrow had taken him aside and told him that he was in deeper waters than he knew, and it was a dark and dangerous thing to betray people, and that they owned him now, body and soul, and that if he ever caught even a hint that Lawrence was being anything other than straight with them in his promise to be a double-agent for the Honourable, then Mr. Carrow would see him punished so thoroughly that mothers would shudder and hold their children close when they heard the tale.
+
+And then they hadn’t let him go. They’d insisted that he give an interview to Sylvia de Kamp, an American journalist, about how much he opposed the Tower and his reasons. They told him how much he opposed the Tower and what his reasons were. They’d asked him about the papers and how he got them, and then asked him again, and then again. They asked him everything he could remember about the Tower and the people. They asked him about his trick with Annabeth. They had him write her, and told him what to write.
+
+They were friendly and deadly, kind and killers, always just a heartbeat away from cold anger or warm reassurance. He whipsawed back and forth and didn’t sleep at night, when he was put into a small room with a cot in the back of one or another dingy shop. He was so scared all the time that he actually become *exhausted* with the effort of being terrified for such a long time.
+
+They asked him if a student could get to the Tower. They asked what it would take to get there.
+
+They started sending Annabeth things. Carrow had a plan, and was waiting for a chance to do it. Today might be the day, he would say. Today might be the day we go in. You’ll go in. You’re with us now. You’ve said things and written things and helped. You’re Honourable.
+
+*How had it been for him?*
+
+“It’s been… I don’t know, sir,” he finally managed to say. “I wish I’d… I wish none of this… I wish…”
+
+He couldn’t say anymore. A sob came out, instead.
+
+“You wish that you could take it all back. Go back and fix it. Make it so that no one got hurt.”
+
+He nodded, and everything went skewed as tears filled his eyes.
+
+“You’re free, though. Despite what you did to Sammy Meroveni-Bowles. You should be in Howard Prison, Mr. Bradwian. But you’re not, and you’ll stay free. Because there was a time when you came up with a plot that hurt someone very, very badly -- almost killing them. And it wasn’t just stupid -- and it *was* stupid to meddle in things you don’t understand, on this level -- but it was *wrong*.  What you did to that boy was wrong. You know that, don’t you?”
+
+And Lawrence *did* know that. It wasn’t that he’d gotten caught and probably should have just been turned over to the aurors. It wasn’t even everything he’d been doing up until now -- the long nightmare. It wasn’t even the fact that he had just helped betray a great man -- the Tower, the greatest healer the world had ever known, who was now at the mercy of Mr. Carrow.
+
+All of those things were terrible, of course. But… he had done *evil.* When he hurt Sammy, he had done an evil thing for stupid ambition and selfish plots. That was crazy, since evil wasn’t a thing that he did. He wasn’t the sort of person who did evil. But at some point during the past weeks, he’d figured it out. You are your actions.
+
+It was crazy that even though he finally really understood that, he couldn’t articulate, even to himself, just what had changed in his understanding. He’d done wrong, and someone had suffered. That was wrong. But everyone knew that. You learned that at your mother’s knee and from Beedle the Bard and all that… even from the stories they told of Harry Potter, in fact. Harry Potter, who was standing in front of a murderous enemy and *still taking the time to teach him*.
+
+“You battered a boy nearly to death with your actions. We fixed him, but that’s not something he’ll ever forget. It’s not something he *should* ever forget. Those seconds of confusion, the horror of understanding, and the moment of pain… that’s part of Sammy, now. Forever. What do you think about that? What have you learned?” Mr. Potter’s voice was soft.
+
+Anything he said would have seemed silly, so he just said the simplest true answer he knew. He said all of his simple true answers, all in a rush.
+
+“Sammy was hurt because I used him in my plan,” he said, the words tearing out of him, “and I only did that because other people used him in theirs, and he was part of that family, and even if he’d been willing to help, he was still just a boy. And I’m just a boy, and I can’t really… I don’t know what’s going on, not really. And until I understood him and everything else, I shouldn’t have tried to change it. Until I knew what people thought and why.”
+
+“ ‘Theory of mind.’ You’ve acquired an improved theory of mind, Mr. Bradwian. You got there late, but you have it now. And some people never do. Well done.” Mr. Potter’s voice was cool. “Human beings come up with different ways of understanding other people’s points of view. Very young children can’t do it at all. It’s something that can be tested -- whether or not a child has a theory of other people’s mind. If you--” He paused for a moment, then went on. “You show a young child a Quidditch-ball box filled with Chocolate Frogs, and then close it up. Then you ask them what a stranger might think was in the box. The youngest children will say that a stranger would think there were Chocolate Frogs in the box, since they don’t understand that other people’s minds work independently of their own. They can’t simulate that separation -- that they know something but that someone else wouldn’t know it. But older children will say that a stranger would think the box had a Snitch and Quaffle and Bludgers inside, since they can guess another person’s point of view.”
+
+Lawrence didn’t understand. It wasn’t fair to expect him to understand -- not with a wand at his back and the past couple of weeks and the unimaginable terror of today. He opened his mouth, but he was a blank. “I… but I knew that. Before.”
+
+“That wasn’t very clear, was it?” said Mr. Potter, frowning. He thought for a moment, and Lawrence had time to feel a sense of unreality about the entire situation. Even though he was here and this was happening, it was insane. If he’d ever thought he understood the world around him -- this world, this dangerous world of these dangerous people -- standing here in front of Mr. Potter, listening to him give a lesson as calmly as though he were Professor Sprout in the greenhouse, while a former Death Eater stood and patiently waited with a mocking look on his face -- well, that would have ended his belief in a world that made sense.
+
+“Listen, then, Mr. Bradwian,” continued the Tower.
+
+“All too often, older children and adults -- people who pass that test with the Quidditch-ball box -- never move past that point. They can understand that other people have a perspective, and that it informs their beliefs and behavior, but they can’t move past that single additional level. They’re trapped in themselves. When you discuss something with them, they can follow your reasoning and arguments, perhaps even well enough to understand or refute them -- but they can’t simulate your thought process. At best, they will know what you think and why you think it… but not *how* you think it. Or what you’re likely to think *next*.
+
+“It’s the difference between… well, you know Wizard’s Chess: it’s the difference between thinking about other people as pieces, and thinking of them as *other players*. And while that seems obvious, and almost everyone would claim to be that sort of person, they’re usually wrong. Most people come up with a mental set of rules or checklists that they use to *categorize* people, rather than actually understand them. Then they treat people according to their category.”
+
+Mr. Potter shrugged. “And that works, most of the time and for most things. It’s an adequate algorithm… but it’s not the best. You’ve learned -- or started to learn, anyway, since I think you might still be at the stage of learning genuine empathy rather than reflexive empathy -- what it’s like to be a piece in someone else’s game. The danger there, and the helplessness, and the fear. And now you can’t ignore how you made Sammy feel. Now you’re getting an improved theory of mind.”
+
+Lawrence nodded, mutely. He understood… *some* of that, anyway. Mr. Carrow still stood silently behind him, and Lawrence could still feel the tip of a wand in his back.
+
+“And you, Annabeth? I understand you never left Hogwarts, but they surely didn’t ignore an asset like yourself. You were passing notes or receiving packages or something, I expect. Not as dangerous, but still pretty frightening… given the consequences. What did you learn? What have you learned about ambition… ‘Silver Slytherin?’ ”
+
+Annabeth was staring down at her feet, weeping. She was silent and trembling, and couldn’t seem to be able to bring herself to say anything. Mr. Potter let his question hang in the air for nearly a full minute, until finally seeming to relent.
+
+“You may go, Lawrence and Annabeth,” said Mr. Potter. “If we see each other again, I hope that I will find that you will have not only kept your lessons close to your heart, but also lent your new wisdom to your House.”
+
+Lawrence didn’t move a muscle until he felt the wand-point leave his back, and even then he only turned his head slightly to look at Mr. Carrow. Annabeth didn’t dare even that much, transfixed with terror as tears leaked over her cheeks.
+
+Mr. Carrow nodded slowly. He spoke, low and dangerous and threatening, as though the wand-point had never moved… as though he were talking to a pet that threatened to misbehave. “Yes, it is time for you both to go. Say nothing to anyone about what you have seen. You will regret doing otherwise.”
+
+Lawrence looked back at Mr. Potter, eyes wide. He tried to send a message with his mind or his face: *What should I do? Do I get help?* There were aurors everywhere. From the time they left the Receiving Room and entered the Tower through the entrance -- so heavily enchanted that it seemed more real and motionless than anything around it, and guarded by a heavy shield of goblin silver waiting to be locked into place on the inside -- and snuck through the Tower corridors to this room, they’d passed seven or eight aurors and more than twenty other people.
+
+He could do it.
+
+Somewhere in him, Lawrence knew that. He knew it instinctively, the way you know you’re thirsty. And even as he thought about it, and stared into Mr. Potter’s eyes, he knew that he could be brave.
+
+“Go,” said Mr. Carrow. “*Now.*”
+
+Even now, Lawrence could be brave. Even after the terror of the past weeks, even after being thrown into a deadly conspiracy of deception and constant threat of death, even after coming to the realization that he’d been a stupid *stupid* little boy who had played with the lives of others and meddled in things far beyond his ken… even after that, he could be brave.  Maybe *because* of that. Courage wasn’t born in ignorance. Courage was knowing and *comprehending* the situation and danger, and acting anyway.
+
+*I can do it, Mr. Potter. I can save you. Let me save you.*
+
+*I can do it.*
+
+“Do as he says, Mr. Bradwian. You will be tempted to disobey,” said Mr. Potter, and his green eyes were as kind as the warm sea, “but remember your lessons. Remember the damage that can be done, when you do something on limited information. It’s a hard thing to learn, but… so important. And I think…” Mr. Potter hesitated, and appeared to stop for a moment to consider his words -- maybe to consider whether he should go on. But he nodded, almost imperceptibly to himself, and said, “I think that for some people, that sort of thing must be learned the hard way.”
+
+He gave a small, sad smile. “It’s no crime to reach beyond your grasp, but only if you can see where you’re reaching.” His voice was distant and soft, but sharpened as he focused back on Lawrence and Annabeth. “Go now, and say nothing to anyone. Just go straightaway to bed. You’ll understand in the morning.”
+
+Lawrence reached out to Annabeth, and took her hand. She didn’t resist as he pulled her away. There were people running and shouting in the halls. One healer grabbed Annabeth’s shoulder for a moment to stop them -- seeing her scorched clothing -- but saw she was uninjured, and sent them on their way.
+
+They didn’t go down to the Slytherin dungeons. They went to the North Tower instead, and huddled into the alcove just at the bottom of the stairs, and held each other. They waited for the new day. After some time, they fell asleep.
+
+
+
+------------------------------------------------------------------------
+
+
+“You shouldn’t be standing here by yourself, even with guards at the door,” said Carrow. The tall and gaunt man’s tone was amused and harsh at the same time, like a scornful teacher.
+
+Harry raised his eyebrows. “I needed time to think quietly. I wanted to think about possible reactions to today’s events.” *Not that it worked, since runners kept showing up and then a trio of intruders. How did he finally manage this?* 
+
+Carrow chuckled. “Shouldn’t you have spent some time doing that before now… before the evening was half-over, and those events were in motion?”
+
+“Well, I thought my excellent Chief of Security had managed to arrange things so that I could spend a minute alone, sorting out a good narrative,” said Harry, shaking his head ruefully. “All right, I’m dying to know… how did you get in here?”
+
+“I wore a troll.”
+
+*Damn it. Clever.*
+
+*And so the stunning effect of the Safety Stick only affected the troll outside, absorbing the effect. Clever, especially since trolls might even be immune to the effect. Have we ever tested that? Surely we have. Either way, though, he’d be awake and alert in the Receiving Room, able to act. But he’d still be inside of a troll, even if he wasn’t stunned. He’d need to get free of the troll, get past the guards and through the door, and pull on an invisibility cloak… all without being seen. He needn’t worry about the Dark Detectors or chizpurfles, I suppose, thanks to the troll providing plenty of interference and distraction… Still, though, even with a troll and hundreds of incoming casualties of war and all the chaos, that’s a tall order.*
+
+He thought for a moment, and Carrow stood silent and waiting, a mocking half-smile on his face.
+
+“And the children got you out of the troll, after the aurors took it down,” Harry said, finally, as one possibility dawned. It was an obvious possibility and not one they’d overlooked, considering the Tower’s location. Students were not normally able to find their way to the Receiving Room, for the entrance to the Tower was at the end of a frequently-changing and byzantine series of corridors that snaked throughout Hogwarts. Even when students needed to visit the Tower, the simplest way remained the Safety Sticks or the Safety Pole in the Great Hall.
+
+But today they’d used student runners, who’d gotten guidance on how to reach the Receiving Room. Tomorrow it would be different, as the school shifted and moved, but for today, dozens of students knew the way.
+
+“I suspect you have an invisibility cloak to sneak around and get to me, right? Something to evade our Anti-Disillusionment Charm, anyway,” said Harry, working through possibilities in his head.
+
+Carrow nodded, patting one side of the vest he wore under his robes. He reached into another pocket and pulled out a black cylinder that fit comfortably into his hand. There was a flange on the side, and a metal ring on top. “And the children brought these to help me get through the Receiving Room. ‘M84 Stun Grenade,’ from the States. Strangely easy to acquire.”
+
+“So a troll showed up in the Receiving Room,” said Harry. “And--”
+
+“*Ten* trolls,” interrupted Carrow.
+
+“So ten trolls showed up in the Receiving Room,” said Harry. “And while they might ordinarily lock it down for that, today everyone’s prepared for something like a mass werewolf or half-giant attack. So after they -- what, used the Killing Curse on the trolls? -- they open things back up, that way all the defeated enemies don’t start to accumulate and pose a security risk of their own. Then… well, I expect Lawrence came back to school today, and he met up with Annabeth, who had probably been getting packages by owl with grenades in them, and they followed a runner or just found out the path from a runner, and they were waiting to throw them…”
+
+He shook his head. “This was a silly and complicated plan. Didn’t Draco ever tell you about how many steps any good plan should have? You needed Annabeth to hide the grenades, Lawrence and her to find their way to the Receiving Room, and then everything depended on them successfully using the grenades.” He paused. “Did you paint the trolls different colors, so they’d know which one you were in?”
+
+“Different sorts of armor. Less suspicious.” Carrow smiled. “And not so complicated. If the children had failed at any step, I had grenades of my own. I’d cut my way out in a second and throw one, and then be on my way. The only difficult parts were capturing and restraining ten trolls -- as well as cutting one open and climbing inside before the hole closed. I already knew my way around.”
+
+“Ah, yes, from the debates,” said Harry. “Such dedication in Malfoy’s service.” He thought for another moment. “But the decision to attack today… that was a surprise to everyone. I know that my people had plans and ideas, but I decided to move today without any warning. It’s impossible to put Unbreakable Vows of loyalty on our staff without unacceptable risks, and despite the best efforts of our indefatigable Chief of Security, there are spies. Even if we didn’t have any turncoats, there are the healers and aurors from other countries who are sent here as price and payment for their states’ being a part of this.” He rubbed his forehead, frowning. “In retrospect, that may have been hasty, and I wish someone had said, ‘Stop, let’s do this tomorrow’ when only five people were in the room.”
+
+He shook his head, and eyed Amycus Carrow, spymaster and lieutenant of Draco Malfoy, and a leading figure in the Honourable. “I *thought* it was low risk, though… just to spend a moment thinking quietly to myself.”
+
+Carrow looked around the empty corner of the research room, raising his eyebrows.
+
+“I thought this was some last-minute Muggle research… but it’s not. You’re sorting through action and reaction now… when the evening’s half-done and everything is playing out?” asked Carrow, disapprovingly.
+
+Harry sighed. “I was trying to work out a plausible story… we need a good series of believable events to explain our crushing success. It will be suspicious if we win every conflict. I didn’t actually think it would be that hard, but we need two levels… an easy lie for the masses, and a clever lie for everyone else.”
+
+“No casualties on our side?” asked Carrow. He picked a thick lump of congealed blood from one sleeve, and dropped it, disdainfully.
+
+“Some, but nothing we couldn’t handle, according to the healers,” said Harry. “Last I heard, anyway. That might have changed, since I understand someone dropped ten trolls and a bunch of grenades into the Receiving Room about ten minutes ago.”
+
+“Couldn’t be helped. Have to kill off Carrow again, anyway. And no one was hurt. Everyone should have been on alert anyway, particularly there and on a day like this,” said Carrow, shrugging gruffly.
+
+“It’s an odd-numbered day, though,” pointed out Harry. “And rather a lot is going on. Prisoners and casualties popping in all day, plus the usual number of regular people needing healing. Almost every reliable person on staff has been working for hours without a break.”
+
+“I got in, Harry. No matter what day it is or how I did it, I got in. Remember that. It can be done. And if there’s one way it can be done, there are other ways. We need another layer of security.” Carrow shook his head. “Bah. Let’s just decide on the story, so I can get back to Material Methods and check up on how things are going.”
+
+“I actually thought it might be time to offer Draco a truce -- to offer him terms. To bring the whole thing to an end, finally,” said Harry. “All right, then, anyway… how did Amycus Carrow die, when he snuck in and attacked me? We need a properly heroic turn of events.”
+
+“He died from boredom, when you gave him a twenty-minute lecture,” said Carrow. “Everyone will sympathize.”
+
+Harry grinned. “Just help me figure it out, will you, Moody? Or I’ll stick you back in the troll -- or in the body *of* a troll.”

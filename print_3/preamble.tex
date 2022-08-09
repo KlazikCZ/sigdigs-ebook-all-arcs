@@ -1,0 +1,180 @@
+\usepackage{graphicx}
+\usepackage{fontspec}
+\usepackage{xltxtra}
+\usepackage{xunicode}
+\usepackage[hyphens,obeyspaces,spaces]{url}
+\usepackage[pdfborder={0 0 0}]{hyperref}
+\usepackage{adforn}
+\usepackage{etoolbox}
+\usepackage{xcolor}
+\usepackage{niceframe}
+\usepackage{minibox}
+\usepackage{soul}
+
+%set margins
+\usepackage[]{geometry}
+\geometry{inner=5pc,outer=5pc,top=6pc,bottom=5pc}
+
+%\setmainfont{EB Garamond}
+%\usepackage{Alegreya}
+\setmainfont[Numbers={Proportional,OldStyle}]{Latin Modern Roman}
+%\newfontface\UrlFont[Scale=MatchLowercase,Color=000033]{Latin Modern Mono Prop}
+\newfontfamily\greekfont[Script=Greek,Scale=MatchUppercase]{EB Garamond}
+\newfontfamily\cjkfont[Scale=MatchUppercase]{[NotoSansKR-Regular.otf]}
+\newfontfamily\titlefont[Mapping=straightapos]{[KELMSCOT.TTF]}
+\newfontface\titlepagefont{[vinque rg.otf]}
+\newfontfamily\hangulfont[Scale=1.16]{Latin Modern Roman}
+\newfontface\kingdingfont[Scale=1.5]{[Kingthings_Flourishes.ttf]}
+\newfontfamily\russianfont[Script=Cyrillic]{CMU Serif}
+\newfontfamily\japanesefont{[SourceHanCodeJP.ttc]}
+\newfontfamily\chinesefont{[chinese.fzytk.ttf]}
+\newfontfamily\thaifont[Scale=1.1]{[thsarabun.ttf]}
+
+
+\newcommand\kding[1]{{\kingdingfont #1}}
+\newcommand\rkding[1]{\reflectbox{\kingdingfont #1}}
+
+\newcommand\capnums{\addfontfeatures{Letters=Uppercase,Numbers={Proportional,Lining}}}
+
+%\setlength{\parindent}{0pt}
+%\nonzeroparskip
+
+\captionnamefont{\sffamily\itshape\bfseries}
+\captiontitlefont{\sffamily\itshape}
+
+% line ang page breaking and alignment
+\usepackage[protrusion=true,final]{microtype}
+\DeclareMicrotypeSetDefault[protrusion]{basictext}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage{greek}
+\setotherlanguage{korean}
+\setotherlanguage{japanese}
+\setotherlanguage{chinese}
+\setotherlanguage{russian}
+\setotherlanguage{thai}
+
+\clubpenalty=9996
+\widowpenalty=9999
+\sloppybottom
+\hyphenpenalty=500
+\midsloppy
+
+% thin spaces and proper breaking around em dash
+% http://tug.org/pipermail/xetex/2005-November/002790.html
+\DeclareRobustCommand{\emdashwithspacing}%
+{\unskip\nobreak\thinspace\textemdash\thinspace\ignorespaces}
+\catcode`\—=\active
+\let—\emdashwithspacing
+
+\newcommand\fding{\kingdingfont\Large}
+\newcommand\lding{\fding\kern -0.12em A\kern 0.12em}
+\newcommand\qding{\raisebox{-0.1em}{\fding a}}
+\newcommand\epiframe{\generalframe{\qding}{\lding}{\qding}{\rotatebox{90}{\lding\vphantom{o}}}{\rotatebox{90}{\lding}}{\qding}{\lding}{\qding}}
+
+\newcommand\partframe{\generalframe{\kding 1}{\kding Z}{\kding 1}{\rotatebox{90}{\kding Z}}{\rotatebox{90}{\kding Z}}{\kding 1}{\kding Z}{\kding 1}}
+
+\newcommand\postepi[1]{\clearpage\thispagestyle{plain}~\vfill\begin{center}\epiframe{\begin{minipage}{3.5in}\begin{verse}\itshape #1 \end{verse}\end{minipage}}\end{center}\vfill~}
+\newcommand\qsource[1]{\null\hfill\upshape \hbox{— \minibox[t,r]{#1}}}
+
+\renewenvironment{quote}{\list{}{\leftmargin 18pt\rightmargin\leftmargin}\itshape\item[]}{\endlist}
+
+\setlength{\vleftmargin}{6pt}
+
+
+%\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+
+\nouppercaseheads
+\newcommand\squigglefill{\leavevmode\kern-3pt\cleaders\hbox{\kding A}\hfill\kern-3pt}
+\newcommand\dottyfill{\leavevmode\kern-3pt\cleaders\hbox{\kding j}\hfill\kern-3pt}
+
+\makeevenhead{headings}{\footnotesize\titlefont\thepage\enspace\raisebox{-0.15em}{\normalsize\kding{1}}\quad Significant Digits\\[-7pt]\dottyfill}{}{}
+\makeoddhead{headings}{\footnotesize\titlefont\leftmark\hfill\raisebox{-0.15em}{\normalsize\kding{1}}\enspace\thepage\\[-7pt]\dottyfill}{}{}
+\makeevenfoot{plain}{}{\footnotesize\titlefont\raisebox{-0.15em}{\normalsize\kding 1}\enspace\thepage\enspace\raisebox{-0.15em}{\normalsize\kding 1}}{}
+\makeoddfoot{plain}{}{\footnotesize\titlefont\raisebox{-0.15em}{\normalsize\kding 1}\enspace\thepage\enspace\raisebox{-0.15em}{\normalsize\kding 1}}{}
+
+\makepagestyle{bonus}
+
+\makeevenhead{bonus}{\footnotesize\titlefont\thepage\enspace\raisebox{-0.1em}{\normalsize\kding{a}}\quad Significant Digits\\[-6pt]\scriptsize\squigglefill\footnotesize}{}{}
+\makeoddhead{bonus}{\footnotesize\titlefont Interlude.\quad\leftmark\hfill\raisebox{-0.1em}{\normalsize\kding{a}}\enspace\thepage\\[-6pt]\scriptsize\squigglefill\footnotesize}{}{}
+
+
+\newcommand\Startbonus{\clearforchapter\pagestyle{bonus}\chapterstyle{bonus}\setsecnumdepth{none}\let\mybreak\squigglebreak}
+\newcommand\Stopbonus{\clearpage\setsecnumdepth{chapter}\pagestyle{headings}\chapterstyle{mychapters}\let\mybreak\jaggedbreak}
+
+\setsecnumdepth{chapter}
+%\chapterstyle{bianchi}
+
+\setlength{\beforechapskip}{0pc}
+
+%\renewcommand*{\chapnumfont}{\normalfont\huge\titlefont\itshape}
+%\renewcommand*{\chapnamefont}{\chapnumfont}
+%\renewcommand*{\chaptitlefont}{\normalfont\Huge\titlefont}
+
+\setsecheadstyle{\Large\sffamily\bfseries}
+\setsubsecheadstyle{\large\sffamily\bfseries}
+
+\setcounter{tocdepth}{0}
+\def\cftpartfont{\titlefont}
+\setlength\cftbeforepartskip{12pt}
+\def\cftchapterfont{\addfontfeatures{Numbers={Monospaced,Lining}}}
+\setlength\cftbeforechapterskip{2pt}
+\def\cftchapterdotsep{3}
+
+\def\cftchapterpagefont{\cftchapterfont}
+\def\cftpartpagefont{\cftpartfont}
+
+
+\makechapterstyle{bonus}{
+\setlength{\beforechapskip}{0pt}
+%\def\chapterheadstart{\centering\includegraphics[height=1.5in]{images/chapternums/big-\thechapter.pdf}\par}
+\renewcommand\chapnumfont{\LARGE\titlefont}
+\renewcommand\chapnamefont{\chapnumfont}
+\renewcommand\chaptitlefont{\Huge\titlefont}
+\setlength{\midchapskip}{1pc}
+\renewcommand\printchapternonum{\leavevmode\centering\kern-6pt\chapnamefont\cleaders\hbox{\rkding l}\hfill\:Interlude\:\cleaders\hbox{\kding l}\hfill\kern-6pt\par\vspace{1pc}\par}
+\def\printchaptertitle##1{\centering\chaptitlefont ##1}
+\setlength{\afterchapskip}{4pc}
+\renewcommand\afterchaptertitle{\par\smallskip{\leavevmode\kern-6pt\LARGE\cleaders\hbox{\kding m}\hfill\raisebox{-4pt}{\kern-6pt\Huge\kding{a}\kern-6pt}\cleaders\hbox{\rkding m}\hfill\kern-6pt}\vspace{2pc}\par}
+}
+
+\makechapterstyle{mychapters}{
+\setlength{\beforechapskip}{0pt}
+%\def\chapterheadstart{\centering\includegraphics[height=1.5in]{images/chapternums/big-\thechapter.pdf}\par}
+\renewcommand\chapnumfont{\LARGE\titlefont}
+\renewcommand\chapnamefont{\chapnumfont}
+\renewcommand\chaptitlefont{\Huge\titlefont}
+\renewcommand\printchaptername{\leavevmode\centering\kern-6pt\chapnamefont\cleaders\hbox{\rkding q}\hfill\:\chaptername}
+%\renewcommand\chapternamenum{\space}
+\renewcommand\printchapternum{\chapnumfont \NumToName{\thechapter}\:\cleaders\hbox{\kding q}\hfill\kern-6pt}
+\setlength{\midchapskip}{1pc}
+\renewcommand\printchapternonum{\LARGE\leavevmode\cleaders\hbox{\rkding q}\hfill{\!\kding S\!}\cleaders\hbox{\kding q}\hfill\kern0pt\par\medskip}
+\def\printchaptertitle##1{\centering\chaptitlefont ##1}
+\setlength{\afterchapskip}{4pc}
+\renewcommand\afterchaptertitle{\par\smallskip{\leavevmode\kern-6pt\LARGE\cleaders\hbox{\rkding q}\hfill{\!\kding W\!}\cleaders\hbox{\kding q}\hfill\kern-6pt}\vspace{2pc}\par}
+}
+\chapterstyle{mychapters}
+
+\renewcommand{\thepart}{\arabic{part}}
+\renewcommand\parttitlefont{\HUGE\titlefont}
+\renewcommand\partnamefont{\LARGE\titlefont}
+\renewcommand\partnumfont{\LARGE\titlefont}
+\renewcommand\printpartnum{\partnumfont\NumToName{\thepart}}
+\renewcommand{\midpartskip}{\par\vspace{16pt}\centering\fontsize{48}{48}\selectfont\kding{1}\par\vspace{18pt}}
+\nopartblankpage
+
+\renewcommand\partnumberline[1]{Arc \NumToName{#1}:\quad}
+
+\addto\captionsenglish{%
+  \renewcommand{\partname}{Arc}%
+}
+
+%\def\llline#1{\mbox{\vbox{\hrule width #1 height 0.5pt \kern 1.3pt \hrule width #1 height 0.5pt \kern 1.3pt \hrule width #1 height 0.5pt \kern 1pt \null}}}
+%\def\mybreak{\bigskip\fancybreak{\llline{4pc}\,\textbf{\large Ω}\,\llline{4pc}}\bigskip}
+
+\def\squigglebreak{\bigskip\fancybreak{\leavevmode\large\kern28pt\cleaders\hbox{\kding m}\hfill{\kern-4pt\kding{a}\kern-4pt}\cleaders\hbox{\rkding m}\hfill\kern28pt}\bigskip}
+\def\jaggedbreak{\bigskip\fancybreak{\leavevmode\large\kern28pt\cleaders\hbox{\rkding q}\hfill{\kern-2pt\kding S\kern-2pt}\cleaders\hbox{\kding q}\hfill\kern28pt}\bigskip}
+
+\let\mybreak\jaggedbreak
+
+

@@ -1,0 +1,335 @@
+﻿Levels
+======================
+
+
+
+
+At some point in the past few minutes, all of Hermione’s confusion and anxiety and sadness had been swept away, leaving only the cold and clear consideration of tactics.
+
+*I need to stop Bellatrix, protect Harry and Draco and a roomful of dignitaries to preserve this new peace, and get the Resurrection Stone. And to save any aurors that I can still rescue.*
+
+*I can directly command the aurors and my Returned, and probably also get the Boston Brahmins and the Siberian Rakshasa, if necessary.*
+
+*Bellatrix is, without question, here for Voldemort. Harry said that she didn’t seem capable of caring about anything else -- she might have plans and secondary goals on his behalf, but her purpose is clear. She’ll want Harry, since she’ll rightly assume he knows where Voldemort is kept. She is one of the most fearsome witches of her generation and has access to spells and power we don’t have, but she also spent years in Azkaban and has been forced to resort to a single desperate attack with a massed army of psychotic, enslaved werewolves.*
+
+*No, that doesn’t make any sense. She wouldn’t risk herself in an attack like this without some sort of trump card -- some way to defeat all the massed forces she knows are present here. Some way to defeat me. That would mean risking Voldemort’s last chance at freedom, and if she were unhinged enough to do that, then she wouldn’t have waited this long and prepared this much. She has some additional force or power at her command… even beyond Fiendfyre.*
+
+Plans danced in her mind, considered in their permutations and in their costs. No time for optimal planning or more than one level of preparation -- they needed direct response, and they needed it before Bellatrix managed to pass through the trapped south corridor.
+
+*Massed attack with Returned… no, narrow constraints make us all vulnerable to any unknown threat or renewed werewolf attack. Lure into open room and trap… no, would sacrifice too much ground and put her too close to assets.*
+
+*Direct attack, flank her and cut off any reinforcements, set up a second layer of defense and trust to Harry for a third layer. She’ll go for him -- assume he knows where Voldemort is kept.*
+
+There, yes, that was it. No time to second-guess. She committed.
+
+“Here’s the plan,” said Hermione, throwing the Cloak of Invisibility to Hyori. “Take this and go around the back, to the rear of the clinic. Have them let you through -- you know the sequences? -- so you can flank Bellatrix. Stop at the Establishment on the way and tell Simon and Esther to come here to guard ‘Harry.’ The Americans and Siberians should stay with the real Harry and prepare to swarm Bellatrix if she makes it that far… he should make a false Voldemort, just in case.” Her last words were as much for the benefit of Harry’s bubbler in the corner as Hyori.
+
+Hyori caught the Cloak and sprinted from the room without another word, her lips pursed.
+
+Tonks, who was lifting the meeting room table onto its side for a barricade, glanced over at Hermione. He had already fashioned himself into a perfect simulacrum of Harry, and had torn the collar of his robes to make them look more masculine. “And you’re going to go try to duel my dear Auntie Black, are you?”
+
+“Yes, in order to protect your dear cousin Draco and everyone else,” said Hermione, working her fingers in her gauntlet and heading to the other door.
+
+“I’m Harry’s distant cousin, too, actually, along with half that room of muckity-mucks,” said Tonks, cheerily. “All our families have been snogging each other for a thousand years.”
+
+“A proud legacy,” said Hermione, smiling. She drew her wand.
+
+“Don’t die, mudblood!” called Tonks, after her.
+
+“You either, blood traitor,” replied Hermione, and then she was through the door and heading to the south corridor, breaking into a run.
+
+She could already see the auror as she rounded into the corridor. He was standing at the corner with the south corridor, putting up runes. Probably runes of balance, out of the hopes that it would damage Bellatrix’s Fiendfyre chimera. He didn’t run.
+
+*A brave man*, she thought, and pushed into a flat-out run, arms pumping. *Balance probably won’t be enough to save his own life, but it’s most likely to slow her down. He’s willing to die to buy us a few more minutes.*
+
+She raised her wand, holding it level as she ran, and then flicked it twice to the left -- “*Lagann!” --* and then with a sharp rising jerk towards herself -- “*Impedimenta!*” The auror’s location wards broke under her first spell, and he was jerked off his feet with the second, sliding towards her, legs flailing. She leapt as she reached him, one powerful stride carrying her ten meters forward and over him. Hermione had the briefest of glimpses of a look of absolute awe on the man’s face -- Auror Salamander, she recognized him -- and then she was past him. She lowered her body into a lunge and turned herself, and her feet skidded over the stone. She came to a neat stop at the corner, standing over the body of the fallen auror. Everything was red and scarlet. There was Fiendfyre.
+
+And there was Bellatrix Black.
+
+It was hard to see her past the chimera, which was lazily pushing at the stone of the floor, kneading it with lion’s paws as it vitrified and bubbled. But she was there. A tall woman with a strong jawline, she was dressed in black leather leggings and a ragged gray tunic, belted at the waist. One of her arms was black and misshapen: an enchanted prosthetic. Bellatrix had a wide smile on her face.
+
+“Ten green bottles, standing on the wall,” she sang, loudly. Her voice was high-pitched -- too young for her age. She tilted her head, and stared at Hermione down the length of the corridor. Dozens of carbon nanotubes blocked her path… but they wouldn’t withstand an instant of Fiendfyre.
+
+“Bellatrix Black!” shouted Hermione. “My name is Hermione Granger! I know you’re here for your Dark Lord… let us give you what you want!” She glanced down at the body of the auror, and leaned over to grasp it with one hand and give it a powerful shove away from her. The fallen auror tumbled end-over-end towards the meeting room.
+
+“Ten green bottles, standing on the wall,” repeated the other witch, and bubbled with a moment of insane laughter.
+
+“Can you hear me? Can you understand me?” shouted Hermione. She tensed her fingers on her wand, and flexed her other hand within her gauntlet.
+
+“And if one green bottle should happen to fall...” said Bellatrix, and raised her free hand. She gestured, and her Fiendfyre chimera jerked upright and lurched forward. The scabrous black lines channeling through the thick flames pulsed, and the broken-necked goat’s head riding atop the nightmare’s back lolled to one side.
+
+“Bellatrix!”
+
+“There’ll be nine green bottles, standing on the wall!” shrieked Bellatrix and waved her hand again. The chimera leapt into the air and blazed forward, flaring bright with hellish flame. It surged towards Hermione, and it was so hot that it was destroying the nanotubes before it even touched them -- she could hear the rapid staccato clicks as they broke. The chimera flared and crackled and melted the surface of the corridor into glass as it surged towards Hermione, and nothing stood in its way.
+
+And she had a moment, then, to remember.
+
+*Pain. Heat. A sweet stink in her nostrils. Her hair crackling as it burned. No knowledge of her body, which had gone far away -- only pain and panic. Somehow she’d lost track of herself, even though she knew on some level that she was thrashing and screaming and there was no Granville oh god Granville was gone. But no, that level of knowledge was going away. The world was going away. She was fading burning dying. There was one level, and it was blackness.*
+
+Hermione remembered, and as time separated into a series of instants, she felt her stomach clench with fear. She felt herself ready to scream. She felt the blackness, waiting.
+
+But in the next instant all of that was gone, and she was brandishing her wand and shouting her defiance, stamping her heels into the stone beneath her until it cracked.
+
+And in the next instant Hermione could feel the *smile on her face* as the chimera flared even brighter -- red and crimson, everything was dyed red and crimson -- and she heard the loud crack of seals coming loose.
+
+Then the chimera was jerked violently to the right and down, spinning helplessly. Thousands of pounds of air pulled it along, sucking with hurricane force at its fire-formed body. Its snake-tail whipped around and hissed angrily, only to be caught up by a different force and wrenched in another direction. Hermione’s shout was lost in the roar of wind, and she felt herself lifting off of her feet. She buried her gauntlet into the wall with an extravagant punch, pushed down on her embedded heels, and held her ground.
+
+Buried in the walls were forty extended spaces, linked into a system. They were as large as possible, and they were filled with nothing… not even air.
+
+The chimera had time enough to buck twice in the air, its lion’s body flexing, and then it splashed into the wall of the corridor with a wash of mad-red flame. Three of the vacuum chambers, exposed by the Fiendfyre flames that had melted into the walls, sucked air by the gallons. They exerted over a ton of force on the corridor, expressed in a hurricane of sucking wind. The chimera shockingly managed to hold itself away from them for a moment, straining to pull away with whatever magical force that gave it motion. Hermione could see the lion of black and red flame roar without sound... and then the chimera was torn apart, rent into scraps of scarlet and ribbons of red, spread out and scattered and dissipated.
+
+According to legend, Fiendfyre could not be stopped or killed or contained. The ritual was the incarnation of a creature of flame and hatred, and nothing could stem its destruction.
+
+That hypothesis, however, hadn’t held up under testing.
+
+The wind died in a few moments, as ball valves were sucked into place. Hermione pulled her gauntlet free from the wall with a rattle of stones, and glanced to her right. Auror Salamander had been pulled back towards her, but was already back on his feet, running towards the meeting room.
+
+Bellatrix was also standing up. Behind her, four long gouges in the stone showed where she’d held on -- she must have dug her own new hand into the wall. Something of which to take note: that device probably had other powers, as well, if she’d gotten it from some hidden hoard.
+
+“*Stupefy*,” cast Hermione, and threw herself low and to the side. Bellatrix’s own silent curse came in reply a moment later, a rippling wave of purple crystal that swept over Hermione’s head. Hermione kicked herself back to her feet with a nimble motion, whipping her wand around and raising a rapid and disposable Roger’s Shield. The multicoloured disc of light unfolded from a single bright line just in time to intercept a second wave of crystal shards. Translucent pieces of the shattered projectiles scattered everywhere, and Hermione could feel them patter into her hair.
+
+*Classically trained duelist, but acts without the rhythm of convention. Voldemort’s work. She’ll have something up her sleeve that I can’t counter -- some wardbreaker or elemental conjuration. And even beyond that… she’s just better than me. I need to get in close and press my own advantages.*
+
+A thick wash of fog rolled forward from Bellatrix, but Hermione interrupted with a rapid-fire burst of minor hexes, fired from around the edge of her shield. *That fog’s slow and flashy, that’s a trap*. Without time for another thought, Hermione cooled her mind into a receptive calm and extended her will, thrusting forth the thought of blue November and the smell of burning leaves. A ward of prisms burst into existence, blocking the corridor from top to bottom, and Bellatrix’s hidden curse, the Slow Blade of Unusually Specific Destruction, which had been cruising sedately but invisibly forward, burst like a soap bubble.
+
+*I need to--*
+
+But the thought was interrupted as both the prisms and Roger’s Shield exploded towards her, shattered by a blazing beam of white-hot light. Hermione felt a hot wave of pain as the energy clipped her right shoulder, and then she was tumbling backwards from the impact. *So fast,* she thought, but there was *no time* and she rolled to one side and thrust out her hand, pushing herself upright with a powerful motion just in time to avoid a sticky gobbet of grey liquid, which landed in a pulsing sphere on the stone and exploded into a fine mist.
+
+Hermione recognized the spell and held her breath, but there was just no time to prepare a counter-attack. She could already see a white glow building in intensity at the other end of the corridor, and could only swirl her wand and raise it to Vom Tag, pulling an eruption of grey stone up from the floor. The beam of light broke against the stone with a sound like shattering glass -- *the pattern, I see it* -- and Hermione threw herself to the side again, smashing into the side of the corridor, as a Killing Curse passed through the space in which she’d just been standing.
+
+Then Hermione seized her advantage while she could. She smashed her clenched and gauntleted hand into her shield of stone, bursting through it with a golden blow, and barked, “AquaCem!”
+
+Sticky foam rushed out of the gauntlet, seething and swelling as it flooded down the hallway towards Bellatrix. Hermione couldn’t see it, thanks to the stone that protected her from any backflow, but she could hear the sizzle of spells, muffled by a corridor crammed with foam.
+
+She had a moment. Bellatrix would be delayed for at least a short time. Time enough for Hermione to prepare, and time enough for Hyori to get in position. She didn’t dare hope that she’d just ended the fight; even if she’d managed to surprise the other witch and actually catch her in the foam, there were any number of ways Bellatrix could escape.
+
+“*Ventus*,” she cast, clearing away the mist. She took a deep breath, and considered her options. 
+
+*I should have kept the Cloak, and had Hyori take Simon and Esther with her*, she thought. She’d been wary of sending anyone without perfect concealment around to the north corridor, since more werewolves might have been on the way. *But I made my decision, and it’s done. Hindsight bias be damned.*
+
+*So how do I get in close?* She took a quick inventory, trying to think of some way to get to the end of the corridor before Bellatrix could react. Her broom was too slow and vulnerable. Explosives? No, that was silly and impractical, even if it was theoretically possible. She couldn’t bubble and have the Anti-Disapparation wards taken down (even if that was something they could easily so), for obvious reasons.
+
+The foam hissed, and some of its stiff grey bubbles poured through the hole she’d left in the stone shield in front of her. Hermione could hear a crackling sound, growing louder by the second. She had another foam charger, should she…
+
+*Oh. Wait, no, that’s crazy.*
+
+But she couldn’t think of *why* it wouldn’t work, and she didn’t have anything better, and this needed to end before more people got hurt. So there it was.
+
+Hermione turned and smashed her gauntleted fist into the stone behind her. She twisted her hand violently, and a small shower of broken rock came loose. Pulling the gauntlet free from her hand, she pushed hard on the underside of one knuckle. The spent foam charger came loose, and she pocketed it. She replaced it with a spare wind charger from her pouch, locking it into place next to an identical one. Then she shoved the gauntlet into the hole she’d made, backwards. It faced the opposite end of the south corridor, where Bellatrix was still dealing with the foam.
+
+The sound of crackling had very nearly reached Hermione, and the air was almost unbreathable with an acrid smell. There was some sort of chemical reaction -- had Bellatrix set the foam on fire, somehow?
+
+The answer came in seconds, as Hermione’s shield of stone began to sizzle. The top melted at the same time that holes appeared along the surface, and Hermione could see the thick yellow mist that was eating away at the rock. She’d changed the foam into some sort of airborne acid.
+
+*How oddly helpful.*
+
+“*Bullesco*,” cast Hermione, and the Bubblehead Charm swelled up and around her head. *Here goes… well, something.* She put her back to the gauntlet, facing the end of the corridor and Bellatrix squarely. Then she raised her wand.* “*Ventus! Ventus!* Kavo!”
+
+Two gusts of wind swept the airborne acid back at Bellatrix. It was the obvious counter-attack, meaning it was an obvious trap -- the dull yellow glow of two Bertram Bolts whipped from out of the swirling acid, which had obscured their passage.
+
+But Hermione had also triggered the two wind chargers in her gauntlet. Twin gales of compressed air, released in a moment from their extended space, swept her up and down the corridor, over the curses, bouncing painfully against the ceiling and turning in an awkward tumble. She lost sight of Bellatrix as she spun, but saw the yellow fog of acid vanish in a glimmer of light -- the Obliteration Charm.
+
+Hermione hit Bellatrix’s shields with one tense leg. Her ankle twisted to the side violently with the impact and she crashed to the ground, arms akimbo and head cracking into the stone sharply. Bellatrix’s eyes were wide with shock and anger and crazed delight. Her false arm held her wand delicately between three fingers, still pointed forward. She brought it down to point at Hermione. “*Avada--”*
+
+Hermione lashed out with her uninjured foot, sharply striking Bellatrix’s wooden arm. The blow would have broken any human arm, but the smooth-grained wooden arm -- oddly delicate in appearance, all shifting layers, an intricate mesh of components -- was only knocked away.
+
+“Silly stupid scum,” hissed Bellatrix, hopping backwards and out of reach.
+
+Hermione could see the other witch’s eyes clearly, in this instant as she scrambled to her feet. They had a burning intensity to them: the fever brightness of madness. But she saw more than that, and her heart ached as she recognized that there was a hollowness behind her gaze. A hungry distance that lay somewhere in those crazed dark eyes.
+
+*You never Returned, even when you left Azkaban. You carry your Azkaban with you.*
+
+It was a moment of recognition. A moment of hesitation.
+
+Bellatrix’s wand danced in a complicated swivel and bob, and she tapped it on her chest. “*Amandher Penkue!”*
+
+The air shuddered with a pulse of magical power. Hermione felt it in her bones. One of Bellatrix’s eyes popped wetly, exploding from the socket into a small burst of black dust.
+
+*A sacrifice. An old spell.*
+
+“Here I am,” said Bellatrix Black.
+
+“Here I am here I am,” said a second Bellatrix Black.
+
+“Here I am here I am here I am,” said a third Bellatrix Black.
+
+
+
+------------------------------------------------------------------------
+
+
+Pip could barely stand. He was very near *toverislot*, and he could feel his will ache with overexertion. He would pass out soon -- should have passed out a while ago, actually.
+
+Despite knowing this, somewhere in the back of his mind, he didn’t stop. He couldn’t stop. Pip crushed the crowded hall with attack after attack. His back against the clinic door, he fought screaming madmen. He broke their bodies and rent their flesh, casting spell after spell, chaining together one effect after another. He fought without stopping, without resting, without thinking.
+
+Pip fought until there was no one left to fight.
+
+The hallway was a ruin of gore and wrecked humanity. Broken or abandoned wands were strewn in and around the smoking remains of their owners. Someone was wetly wheezing, trying to curse or scream even as they drowned in their own blood. Pip leaned on the wall, his vision swimming -- but wand at the ready.
+
+The door to the clinic clanked loudly, and swung open behind him. Pip turned, wearily, to see that witch from the Returned -- the angry-looking Korean one. Her wand was out, but she appeared to be missing her other arm. *No, an invisibility cloak. Bugger, I* am *tired.* She stared at him for a moment, narrowing her eyes with scrutiny.
+
+“Hullo,” he said.
+
+“Come,” she replied, handing him a phial. The label read, “PEPPER-UP POTION.” Then she pushed past him, breaking into a run, throwing the cloak over her shoulders.
+
+*I shouldn’t drink this*, Pip thought, as he swallowed the potion. He felt it burn down into his stomach, boiling in his guts. Thick heat spread throughout his limbs, and his ears burned.
+
+*I’m too tired… I’ll just sit down here and take a rest. Forget the lockdown protocol, let the clinic aurors go fight,* Pip thought, as he raced down the corridor after the vanishing Returned, slipping on blood.
+
+*Mum would want me to let someone else take their turn… bollocks to this, I’m going to go have a nap*, Pip thought, as he began to raise his wards for what felt like the thousandth time. New strength was rising in him, but it felt artificial and thin -- the false energy of a strong cup of tea in the wee hours of a long watch.
+
+He could hear Bellatrix’s voice as they neared the junction of the north and south corridors. She was chanting something, but there was some strange effect -- it sounded like a chorus. Like there were--
+
+Three of the bloody crazy bints. All fighting Hermione Granger.
+
+It was impossible. Everything about it was impossible. It was impossible that Bellatrix had duplicated herself somehow -- it wasn’t even an illusion, they were all doing different things! -- since there had never been any magic like that, not that he’d ever heard. It was impossible that anyone could cast so many curses -- so many Killing Curses! -- with such speed and viciousness. He’d heard stories, but to see it…
+
+And it was impossible that the Goddess was *still alive.*
+
+But she was. She ducked and threw up shields and cast curses and lashed out with her fists and feet. Killing Curses streamed past her, but she slipped gracefully among them, pausing only to rip away wards from her foes or attack them. She moved faster than anyone could move. She was dancing between the raindrops.
+
+“*Lagann*! *Stupefy!*” Pip shouted, and immediately wished he’d kept quiet. His spell smashed through the shields of one of the Bellatrixen, but his stunner hit her wooden right arm and had no effect.
+
+“Oh hell,” Pip said, as that Bellatrix (Bellatrix #1? Bellatrix A? Bellatrix holyhellrunaway?) rounded on him, leaving her doubles to fight the Goddess. Like the other two, she was missing her right eye. A bloody socket wept crimson down her cheek.
+
+“Silly dolly,” hissed Bellatrix A. “It’s time to--”
+
+But her words were cut off suddenly, turning into a wet gurgle as a red slash appeared across her throat. Blood began to spurt from the wound, and Bellatrix A staggered backwards into the wall, clutching it with one hand as she tried to clamp her fingers over her throat with the other. Her wand dropped to the floor.
+
+In unison, the two other Bellatrixes whirled. They spoke in one voice.
+
+“*Avada Kedavra*.”
+
+Both curses flashed through the air and vanished into nothingness. There was the sound of someone collapsing to the ground.
+
+“*Stupefy!”* cast Pip again. The stunner missed, but it did force the two standing Bellatrixen to adapt and raise new shields, distracting them for a further precious instant. It gave the Goddess a moment to snatch a knife from a pouch at her waist. She renewed her attack, casting three Bertram Bolts in as many seconds and lunging at the nearest Bellatrix.
+
+Her target whirled to bring up her artificial arm and wand. The Bellatrix deflected the Bolts with an instantaneous Roger’s Shield, and continued the motion to intercept the knife with the enchanted wood of her forearm. It was a marvel of combat.
+
+Something didn’t go as the Bellatrix expected, though, since the knife punched right through the prosthetic. It was a small knife, and its silver tip only just breached the other side of the relic-arm, but it was something.
+
+“*Lagann! Lagann! Lagann! Reducto! Reducto!”* Pip began casting, trying to capitalize on the momentum. He kept his distance and only tried to support the Goddess, because he could feel a vast lethargy welling up from his guts. The potion was wearing off. He didn’t give up. He wouldn’t give up.
+
+*“Thank you for saving the Goddess and the whole Tower,” breathed Cedric. He shook Pip’s hand, and then held on. He didn’t let go as he looked into Pip’s eyes. “I… I don’t know how to say this, but… I’d noticed you, before. When you were on duty. I noticed you in your auror’s robes. Your eyes.”*
+
+Pip dodged to the side with a desperate effort, contorting his body to avoid three precise blasts of Hippo’s Fire. “*Lagann!”* he cast. “*Depulso! Reducto! Glacius!*” He was slowing down, dimming, fading. Everything began to get darker, and it felt like he was fighting in knee-deep water. Water that was rapidly rising, and making him sluggish and dull. He pushed himself. He pushed himself beyond where he ever thought he could go.
+
+*It felt odd to be sitting at the head table, next to Headmistress McGonagall. But they’d insisted. It was only proper for the new Head of Slytherin to take the place of honour. “I want you to know,” said the Headmistress, with a softness in her Scottish voice that he’d never heard, “that Hogwarts owes you a debt it can never repay. The name of Slytherin has new meaning, thanks to you. Let them all be Silver Slytherins in your mold. Let them strive to live up to the name of Pirrip.”*
+
+Everything was slow. Too slow. A bolt of fire hit Pip in the leg. He felt the pain as though at a great distance. He couldn’t bring up any more shields, couldn’t manage any difficult curses. He cast stunners and disarms, and even that took so much effort that it felt like his soul was being scraped raw. “*Stupefy! Stupefy! Expelliarmus!*” Anything to make the Bellatrix react and fight him -- to distract her -- needed to distract her -- needed to save the Goddess…
+
+*“I’m so proud of you, Philip. Your dad would be so proud of you.”*
+
+Then he felt a curse hit him in the stomach. Too slow. Couldn’t avoid it. Didn’t feel like anything, though. The world tilted and rocked as he fell, crumpling to the ground. Couldn’t feel his legs. Couldn’t feel bloody anything. Everything sideways. Everything dim.
+
+Pip could see the Bellatrix he’d been fighting turn around. She touched her wand to the one with the slashed throat. After a moment, the hand of the fallen Bellatrix twitched and clenched itself. It scrabbled around, looking for a missing wand.
+
+The Goddess was putting up layered shields, trying to outpace the other Bellatrix, whose prosthetic hand seemed to be moving more slowly. They were getting smaller -- the whole fight was getting smaller. Everything was shrinking, as though he were being drawn back into a tunnel. A dark tunnel.
+
+Bellatrixen A and B joined their sister. Dull shapes, moving far away. A thick fog. The Goddess was fighting. But it wasn’t… wasn’t working… she couldn’t…
+
+Dimly, Pip watched as Bellatrix Black and her two duplicates cast the Killing Curse. They cast it in quick succession, and they cast it flawlessly. This time, Hermione Granger was too slow.
+
+One of the Killing Curses hit her. Colors were dim, and Pip’s mind was fading, but still he saw the green bolt strike her in the chest.
+
+He saw the Goddess die.
+
+Two of the Bellatrixen sprang forward, down the corridor and out of his sight. Pip watched them go with the distant thought that this was important… that this mattered… but he couldn’t quite…
+
+Almost as an afterthought, the last Bellatrix turned to him. He watched, dully. He tried to keep his eyes open. He felt for his wand with numb fingers. He needed… he had to…
+
+“*Avada Kedevra.”*
+
+
+
+------------------------------------------------------------------------
+
+
+Harry had done everything he could. He entered the Extension Establishment with his most commanding air and had informed everyone that there had been a security breach. The defence had been easy to organize. Draco was there to publicly and cordially avow that the Honourable and Independents had no hand in the attack, and that the same honour which compelled their defiance of tyranny would compel them to defend innocent lives. Harry suspected that, even if Draco hadn’t been there, he would have met little opposition. This was his place of power and his fortress, and those in attendance respected such things.
+
+Politics were still a necessity, though, and having Draco with him helped. The Slytherin was able to make awkward requests with such beautiful elegance that they seemed like compliments. Per Aavik-Söderlundh-Ellingsen and the other incompetents were ushered off to the far corners, where they wouldn’t be in the way. The process was considerably eased when Harry sent the Brahmins -- a grizzled, enormous pack of battle-hardened witches and wizards -- next door, to fetch some of the Mobile Marys and other extended spaces. Fully half of the gathered crowd was dispersed among them. Everyone who would be a liability, or who declined to risk themselves, was put out of the way in that manner, and there was room to maneuver and plan.
+
+But then that was arranged, and he’d worked with Draco and Cedric to deploy the British aurors and the Brahmins and their Siberian counterparts and some of the Returned (Urg, Charlevoix, and Susie) in strategic positions, and everyone was weaving wards and shields that were (frankly) far better left to them. Harry stood where he was politely asked to stand by Buckeye Dave of the Brahmins.
+
+And he had to watch the bubbler and wait.
+
+Tonks-as-Harry made her own preparations with Simon and Esther in the meeting room. They laid magical traps and wards and shields. They made plans. Harry watched and listened to them.
+
+He waited.
+
+Draco stood nearby, talking quietly with his mother (who kept giving Harry hateful glares) and Gregory Goyle. Harry wished they could keep talking, openly, like before -- even just about the situation, much less everything else that had happened over these past few years.
+
+Harry thought about everything that could be lost today. He thought about Dumbledore’s wise words about war and loss, seven years ago, in a room filled with monuments to the fallen.
+
+*“I see that you still do not understand. I think you will not understand until the day that you -- oh, Harry. So very long ago, when I was not much older than you are now, I learned the true face of violence, and its cost. To fill the air with deadly curses -- for any reason -- for any reason, Harry -- it is an ill thing, and its nature is corrupted, as terrible as the darkest rituals. Violence, once begun, becomes like a Lethifold that strikes at any life near it. I... would spare you that lesson the way I learned it, Harry.”*
+
+Would Harry learn that lesson today? Would he learn that there were never enough levels to a plan -- never enough layers of deception or preparation that could save everyone?
+
+He’d rejected that principle, then and every other time he thought about it. Dumbledore had shown him the costs of war, and had challenged him: did Harry really think he was smart enough -- that *anyone* could be smart enough or prepared enough or powerful enough -- to fight a war without loss?
+
+Dumbledore had tried to point out that violence was often unpredictable, and seldom neat. They spoke of history -- Gandhi and Churchill and Grindelwald -- and they spoke of slippery slopes. And still, all around them, had been the evidence of loss. Dumbledore had done everything he could to avoid war, and when it came, he had led the forces of goodness. He had been the most powerful wizard known to the world, and he had somehow discovered the Word of the First Enchanter and had listened to every prophecy held in Britain, and *still* he had suffered grievous losses in the wars against Grindelwald and Voldemort.
+
+“I do not accept your answer, Headmaster,” Harry had said at the time. It had been a childish refusal to engage in an argument on its merits, really. “You are willing to accept balances of power where the bad guys end up winning. I am not,” he’d said.
+
+*“Refusing to accept something does not change it. I wonder now if you are simply too young to understand this matter, Harry, despite your outward airs; only in children's fantasies can all battles be won, and not a single evil tolerated.”*
+
+Harry had hated the bullying at Hogwarts. He’d been willing to disrupt the school to stop it. If that had upset Lord Jugson, he’d been willing to arrange for Lord Jugson to be exiled. If that had upset Lord Malfoy and his whole Wizengamot contingent, he’d been willing to break Malfoy and every single one of them -- or all of them at once, if need be.
+
+For the sake of ending bullying, Harry had been willing to conquer the world.
+
+Was that right?
+
+Harry drew his wand.
+
+It wasn’t the Elder Wand. The Elder Wand was hidden in the Tower, guarded by a thousand traps. It would have been foolish to carry it: Harry was clever and creative, but no duelist. Any unguarded moment and he could be “defeated”... no, better to keep it safe and hidden until he had need of it.
+
+This was Harry’s wand. Eleven inches long. Holly. Phoenix core.
+
+What would Fawkes say to him now?
+
+Noise from the bubbler. Harry’s attention snapped over to it. Charlevoix, standing to his left, stepped closer to watch.
+
+They could see three versions of Bellatrix Black entering the meeting room. There was fighting -- hard to make out from the bubbler’s limited vantage point. Esther was casting curses, and so was “Harry.” Simon was already down. He was just visible at the bottom of the bubbler’s view. He wasn’t moving.
+
+Flashes of light. Some sort of trap triggered, and the picture on the bubbler was whited-out. When the view returned, Esther and one of the Bellatrixen were both out of sight. Either they were out of range of the bubbler’s vision, or… something else. He could hear a sharp intake of breath from Charlevoix.
+
+But now it was Tonks against two Bellatrix Blacks, and no one could have won that battle. Harry cringed as the two attacking witches disarmed “Harry.”
+
+One of the Bellatrixen moved, and her back blocked Harry’s view of Tonks. The other one was pulling something from within her belt. They struggled with Tonks, who wouldn’t cooperate, finally settling on *Incarcerous* to bind him. They forced him to open his mouth, poured something in. A potion. Veritaserum. A *lot* of Veritaserum, more than anyone could ever use on someone they wanted to keep alive and sane. Enough to wrest the truth from Mad-Eye Moody himself.
+
+“I’m Nymphadora Tonks, I’m not Harry Potter! He’s oh Merlin no no no he’s back through that door, in the Extension Establishment with everyone else no no no Merlin I’m so sorry Harry I’m so sorry Hermi--”
+
+“*Avada Kedavra*,” said one of the two remaining Bellatrix Blacks. Harry closed his eyes, and felt bile rise in his throat.
+
+He’d taunted Dumbledore. Hurt him on purpose. *“And that's why I can destroy Dementors and you can't. Because I believe that the darkness can be broken."*
+
+The two witches laughed -- insane and hideous laughter -- and vanished from his view.
+
+Harry heard laboured breathing, and turned to see Charlevoix’s shoulders heaving. Her cheeks were wet with tears.
+
+“Fucking bitches,” said Susie.
+
+Buckeye Dave gave orders to the Brahmins. Марат gave whispered commands to the Rakshasa. Cedric gave direction to the aurors.
+
+Harry waited.
+
+He remembered what Dumbledore had written to him -- the last word in that conversation, delivered after the good man’s sacrifice.
+
+*There can only be one piece whose value is beyond price.*
+
+*That piece is not the world, it is the world's peoples, wizard and Muggle alike, goblins and house-elves and all.*
+
+Harry lurched into motion. First a step forward, and then another. Then he knew what he was doing and knew it was what Fawkes would tell him to do.
+
+He broke for the door.
+
+Angry and dismayed shouts broke out from those important enough to object, but what could they do? Stun him? Who would dare stun Harry Potter-Evans-Verres and ruin his clever plan? Draco called out something in alarm, but Harry couldn’t understand him. Wouldn’t understand him.
+
+He was out the door and into the hall.
+
+Bellatrix Black was there. So was a second Bellatrix Black. They stood side-by-side, ten meters away. They stank of death and madness.
+
+Harry skidded to a halt, almost falling forward, awkwardly. He kept his wand at his side, deliberately, but raised his other hand.
+
+He snapped his fingers.

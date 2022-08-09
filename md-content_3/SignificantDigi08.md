@@ -1,0 +1,284 @@
+﻿The Thing with Wings
+======================
+
+
+
+> <span class=capnum>*KARL:</span> You think you are safe here, in your village utopia? War is upon us! Hear the sound of drums. The enemy approaches in scant minutes, and our hourglass flows so quickly... witness the last of the time! Lords and ladies… I beseech you! Wake up and attend to your own hour of doom! Flee!*
+
+> <span class=capnum>*ERIN:</span> We hear. We understand. But we will not run. We will not abandon Sontag.*
+
+<cite>The Last Days of Exses O’Bruinan,”\
+by S. Leigh, as staged in the 1979 London production</cite>
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+*John Snow Center for Medicine and Tower School of Doubt (The Tower)*\
+*May 18th, 1999*\
+*One day later*\
+
+Draco’s office in the Tower was in the rear of the complex, where it had been expanded. He had originally been situated near Material Methods. It might have been quiet there at the moment, with the goblins all shut up and withdrawn into Curd and Ackle, off doing gobliney things (presumably comparing ear length or bathing in rubies). But as soon as the dodgy little blokes were back to work, hammering out more absurdly large golden gloves, then that area would become intolerable: unfortunate smells, clamorous noise, and a horde of chest-high half-elves swarming underfoot in the corridor.
+
+Now he was comfortably ensconced next to the new offices of the Vision Verge, instead. They were almost all wizards and witches, except for the one centaur, and they mostly did quiet things involving lenses and the like. It was uninteresting work -- what possible use was there for the tiny Protean-Charmed little toggles they were making? -- but also a peaceful little corner of the oft-bustling Tower.
+
+*Dearest Mother*, he wrote, leaning over the parchment on the desk in front of him.
+
+*All is going well -- better than we could have hoped. There are plans to reorganize the way the Tower operates, now that a new Receiving Room will be built to accommodate the Ten Thousand. That has meant a second Terminus to be in charge, and a second command structure for it, and now the whole question of who reports to whom has been upended. The Westphalians are all in a clamour about the new addition, as well, and are arguing that the Americas should also have their own Receiving Room. If they win, then simple pride will oblige the construction of a fourth Room for the Free States, Nigeria, and any other African states that join.*
+
+*In fact, I believe that the Tower will become a proxy body for the Confederation, which will soon mean, of course, that it will become subject to votes from that body. Potter is a soft touch, and he won’t be able to flout the Confederation forever without the excuse of the Independent opposition. That will be an opportunity for many, including us. Good fortune floats into our hand like a ripe dirigible plum.*
+
+Draco continued in this vein for some length, setting forth his pretended expectations with just enough vagueness to appear plausible. He laid out a vision of a potential path to power within the Tower -- and more importantly, made sure that this vision was transferable: a blueprint for others to follow, as well.
+
+When he was done, he took a parchment razor and notched the lower-left corner of the first page twice, then folded and sealed the packet. Draco would send it to his mother, and she’d know it was meant for others to see. It would be “stolen,” and reinforce his efforts at tempting a few choice individuals into the fold.
+
+There was a loud knock at his office door.
+
+Draco looked up, irritated at the interruption. He glanced at the big watch on the wall. He was expecting his “spy” and ally Dolores Umbridge at ten o’clock, but he’d expected to have time to write a genuine dispatch to his mother in addition to the fake one. They’d built something special over these past years with their Honourable, and he had no intentions of letting it -- or their relationship with each other -- decay. “Who is it?” he asked, curtly.
+
+“There are some who call me… Tim,” said a voice from the other side of the door.
+
+“Come in, Longbottom,” Draco said, sighing in annoyance.
+
+Neville opened the door, glancing around the room as he stepped inside. At some point in the years since he and Draco had first boarded the Hogwarts Express, Neville had grown tall and handsome. He was a bit gawky, but with an obvious strength in his wiry frame. His eyes were bright and his smile was wide and he was utterly intolerable.
+
+“Harry wanted to know if you had a minute,” Neville said. He squinted at a statue in the corner -- a beautiful sculpture in gold of a fat-bodied cobra with numerous heads, coils piling up beneath it and a single broad hood loomed behind its heads.
+
+“Fine,” said Draco, checking the wall-watch again. He dropped the cover over the inkwell built into his desk and cleared the parchments to one side. He included the fake dispatch among them. He’d send it later.
+
+Neville jerked a thumb in the direction of the statue. “That’s new.”
+
+“It’s from Thailand,” said Draco, turning to regard it. “Not a real beast. ‘Ananta Shesha,’ a fanciful notion of the Muggles… They say that it holds the entire world on its hood.”
+
+Neville regarded it closely. There were tiny scales pricked into its surface, and each tiny snake-head wore a delicate crown. “So he’s trod down by everyone else, despite all his crowns?” he asked, lightly.
+
+Draco ignored the jab for a moment. He adjusted his robes as he walked around the desk, and he kept his voice mild as he replied, “One day, they say he will uncoil.”
+
+Neville scowled as the Slytherin stepped past him and out into the corridor. Draco turned to give him a level look, and spoke over his shoulder, “And then, he’ll be all that’s left.” Draco smiled coolly. “Ananta Shesha: ‘that which remains.’ ”
+
+Not his best work… but then, it was only Neville, who spent most of his day wallowing with Muggles and play-fighting with them.
+
+Draco walked briskly down the corridor, past the Verge, and along the hallway squeezed between the Conjuration Conjunction and Extension Establishment, the latter filled with annoyed people snapping at each other irritably. There had been serious malfunctions in the latest slicebox prototypes. They were intended for the creation of a second pocket world, which would also be put into orbit out past the sky, but they’d been rupturing instead. One researcher had nearly been killed by an accidental backlash that had bisected her at the waist.
+
+He turned left, moving past the entrance to Material Methods, and then pushed open the door to the meeting room, striding on inside. *It’s important not just to look like you know what’s going on, but to appear to actually be in command of it,* his father had used to say.
+
+There were a few people in the meeting room with Harry. A couple of aurors, Percy Weasley, and Cedric Diggory. No Bones and no Mad-Eye… nothing about the Tower or politics or anything foreign. Probably government...
+
+He considered likely possibilities as quickly as possible as he nodded to those sitting at the table and walked over, past the aurors.
+
+Was this about his mother? No, they’d leave that alone, no matter what. They knew better than to get between Draco and his family. They knew he was a Malfoy above all.
+
+Had one of his minions gotten out of hand? Draco did an inventory of the likely suspects -- the lowbrow pawns who’d run most of Knockturn Alley. Gem and his people were in Howard Prison for another three months… Laura Lock and Tallow Enser were still in hiding in Kent and unwilling to come out. That left Jean-Luc Bigby and Mortimer Kainen. They’d been kipps by trade six years ago, collecting loans and insurance. Had they gone back to that and gotten picked up after hexing the wrong person?
+
+Was this more personal? Had they started getting information from Bellatrix, finally -- penetrating the unfathomable protection of her insanity?
+
+“Hello, Harry,” Draco said, standing behind an empty seat. He rested his hands on it. He waited just a fraction of a second before turning to the other two, saying, “Diggory. Weasley.” A gentle reminder of the order of things. “What are we on about this morning?”
+
+“Just the usual, Malfoy,” said Cedric, with his customary badly-disguised air of scorn. He’d had difficulty accepting the new reality in the Tower: Draco as ally and not defeated enemy.
+
+Draco smiled a knowing smile, and pulled his chair out. But he didn’t sit down, pausing.
+
+There was something wrong.
+
+Draco didn’t know what it was, but he knew there was something wrong. He glanced from face to face, again. He couldn’t quite put his finger on it, but he felt the disquiet in his guts.
+
+*What is it? Is it Mother, after all? No, Harry would tell me in private first, if that were it. Was it a misunderstanding -- the uncovering of a “plot” to overthrow Harry, and it’s been misunderstood?*
+
+He could see it, now, all of a sudden, as they looked back at him. It was their expressions. Harry and Diggory and Weasley all seemed to have their attention somewhere else. Not as though they weren’t paying attention or anything so obvious -- but rather, it was as though they were distracted by a noise or presence that he couldn’t see. It was subtle… but then, Draco’s tutor in the social graces, Master DeCampo, had always said that manipulation was the most delicate dance of all. These were three people struggling with their guilt. He could see it.
+
+*Why do they feel guilty?*
+
+“I think --” Draco began, but he could already feel the presence of the aurors close behind him.
+
+A wand jabbed into his back.
+
+Draco smirked, despite the roiling of his stomach. *Did Harry seriously think I’ve never considered the possibility of betrayal? “There are only three certainties: death, betrayal, and hag’s teeth.”* He’d personally made a portkey to his own office within the Tower. Portkeys couldn’t take him outside the facility, but they could travel within its bounds -- to a prepared escape cache.
+
+“This is a mistake, Potter,” he said. He considered the appropriate *bon mot* to leave in his wake, and fixed Harry’s eyes with his own. Harry looked conflicted, his face uncertain. *Uncommitted. Ultimately, not enough will to carry this out.* Draco felt more confidence at the thought. *This might actually be a good thing.*
+
+A hand rested lightly on his shoulder from behind, from someone unseen.
+
+“*Egeustimentis*,” he heard.
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+After the necessary adjustments, they all sat down together. The Master took Harry’s usual seat. They began to discuss what seemed to be the next step.
+
+“Trying to ambush Mad-Eye,” said Draco, shaking his head. “It sounds almost like a… like something that is untrue by its very nature.”
+
+“A contradiction in terms?” suggested Cedric.
+
+“A paradox?” offered Harry.
+
+Draco nodded at Harry. “A paradox. Like burning water. Or a lucky elf.” He shook his head. “ ‘An ambushed Moody.’ Impossible.”
+
+“Well, we’ve hit critical mass, I think,” said Harry. “We have enough people to do it, but not so many people that we’ve been found out. Most of the aurors on shift yesterday and during the night, and everyone on shift today -- and now Draco. If we act now, we might even keep it from getting messy.” He looked hopefully over at the Master.
+
+“Yes,” Meldh said, nodding gently. “The changes I have made are not… subtle. The Lethe Touch takes centuries to master, but even my skill is not enough to disguise such a change in, ah, *priorities*, shall we say?”
+
+Draco nodded in agreement, as well. “I knew something was different when I walked into the meeting. And there’s no sense in wasting an asset that might help the Master later. You’re right, we should act immediately.”
+
+Harry leaned forward, using one hand to brush the end of his ponytail back over his shoulder. “Is there any risk the Lethe Touch will wear off?” he asked Meldh. “If it has a time limit, we should make sure to set up a schedule -- maybe a system to keep an eye on each other.” He paused, thoughtfully, and wagged a finger at his Master. “If we’re going to help you, you’re going to need to start telling us things about what you want and your assets.”
+
+Meldh raised an eyebrow. He leaned forward and folded his arms on the table in front of him. He had a mild look on his face -- amused curiosity, as though he were looking at children. “Oh?”
+
+“Are you fishing for information, Harry?” asked Cedric, frowning suspiciously.
+
+“Well, yes,” said Harry, contemplatively. “It’s interesting. I suppose I’d always assumed that mind magic like Imperius would come with an underlying change in personality and methodology. Maybe I’ve been making comparisons to Muggle techniques that don’t serve -- things like brainwashing. Instead, it’s more like Muggle politics than anything else… the dark side of rationality, where ideas don’t have inherent value, but only matter as… as... “ He made a gesture. “As soldiers. In politics, whether or not an idea or theory reflects reality is less important than whether it helps or hurts my team.”
+
+Meldh’s face darkened. He rose from his seat, slowly. “How can you speak this way? How have you defeated the Touch?”
+
+Harry shook his head. “It’s not what you think. I serve you above all else, Master Meldh. But you didn’t lobotomize me. I’m capable of introspection -- I can recognize that the change to my priorities wasn’t predicated on rational assessment of the situation.” He grinned, good-naturedly. “More knowledge is better, even about yourself. You’d be amazed how many times I’ve had to talk about this --”
+
+“*Lecture* about this,” Cedric put in, sighing.
+
+“-- but it’s true,” Harry continued, unperturbed. “There’s no danger to knowing how your own mind works, including all of the biases that damage your ability to make rational decisions. We’re incredibly biased towards acting according to your instructions, Master, and it wouldn’t serve you to pretend that’s not so.”
+
+“It would be less creepy, Harry, if you would just make your peace with it,” said Draco, frowning. “Accept that this is the way it is, and don’t overthink it.”
+
+“No, no,” said Harry, quickly. “That’s just it! You’re conflating the idea of resisting the change in our minds with the idea of *understanding* it.”
+
+“This is not useful,” said Meldh, quietly. He’d become mild again, apparently accepting Harry’s explanation, and lowered himself back into his seat. “We will finish planning, so that we eliminate all threats. Then we will take the time to prepare our moves for the future… what pieces we keep and what pieces we sacrifice. We will adjust our strategy, so we can move towards my chosen endgame -- not your madness of healing Muggles and throwing things into the sky. Magic must have its end.”
+
+Harry looked momentarily flummoxed, opening and closing his mouth a few times. Draco smirked, watching. Eventually, Harry found words again, frowning. “Yes, sir.” His frown became surprise, as though he’d intended to say something else.
+
+Draco turned his attention back to the Master. “Moody is due to come in today at some point for an intrusion attempt, since it’s an even-numbered day. I suggest we prepare a fake repeater in the clinic, and ask him for help.”
+
+“There have been a few people who have been unhappy with their rejuvenation who have tried to convince us to do the process again,” Cedric explained. “It’s against policy, since it’s too time-consuming and it takes time away from others. If a healer is rejuvenating someone for the second or third time, that means there’s someone else in actual need of rejuvenation who has to wait in suspension. We had three French wizards who caused a problem about this, a couple of years ago, and backed up the queue so badly that several people came very near to dying. We keep a sharp eye on répéteurs ever since.”
+
+“Moody has prepared for this sort of thing,” said Harry. “I know for a fact. One of his jobs is to be paranoid about everyone.” He stabbed a finger onto the surface of the table. “Even *me*.” He turned to Draco. “One level won’t be enough. We need levels and levels if we want to have any hope, here.”
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+Alastor Moody was waiting until just before midnight. People got sloppy at night -- forgot to check their corners, lost track of everyone in the room, and other laxness. He hadn’t done a night intrusion on the Tower in months. By that time, they’d be wondering if he’d already managed to get in… they’d start double-checking the patients already in the clinic and verifying the identity of everyone in the halls. Added to their fatigue, it might be the edge he needed to get to Harry and “assassinate” him.
+
+He smiled to himself as he checked the Glenwallace Traps on the doorframes of his house. This was going to be a fun one.
+
+It helped that he was in a good body. A tall and healthy man with a dark complexion and brown eyes -- nondescript but usefully vital. There was a lot to be said for the usefulness of sheer physical health when it came to break-ins, although the stealth value of a small child or an obese man wasn’t to be shunned.
+
+A small bell rang twice, and Moody frowned. Owl in the hutch. He checked the front door and the windows, and then went to the hutch. It was carrying nothing but parchment, so he opened the swivel-door barrier and let the owl through, and plucked the message free.\
+
+\noindent REPEATER IN THE CLINIC.\
+WE NEED A QUIET REMOVAL AND\
+TO MAKE SURE THIS DOESN’T HAPPEN AGAIN.\
+APPLY PERSUASION.\
+
+It was signed by Malfoy.
+
+A trick? A trap? Alastor knew where at least 75% of Malfoy’s little gang were, and they were almost all neutralized. Assuming he could be wrong by as much as a fifth, and that Malfoy might have gotten leverage over some of the mid-level aurors -- maybe a Terminus on duty -- or maybe Malfoy himself had been suborned by a larger operation or a powerful individual, maybe the Three. Or just an attempt to curry favor. Or rather, more subtle: an attempt to appear as though he were currying favor, so as to be taking an obvious hopeless action in a safe way while putting forth another plan.
+
+Might also be the Chinese or Americans, making a try now that they had their foot in the door. He wouldn’t put it past that lousy little Hig, who was all helpful and sweet now that the Westphalians had what they wanted.
+
+It was also just barely possible that there was no ulterior motive to the situation or message. He chuckled out loud at the thought.
+
+Alastor snatched some leaves of parchment from the writing desk near the hutch and wrote three terse messages in his crooked and crabbed hand, ordering a change in the shift commanders at the RCP and the Ministry, and sending a further letter to a cold-drop. Unlikely Malfoy or anyone else could have sway enough to manage every single shift commander. He sealed them with a hasty Verification Charm to match his wand, and sent them on their way.
+
+He checked the Glenwallace Traps again, and the other Dark Detectors while he was at it. Then Alastor pulled on his gear and checked it over. He studied his appearance in the glass for a long moment, but he looked safely ordinary.
+
+The safest way would be to Apparate to the Ministry and then take a secure Floo, but they’d be expecting that and it would, ironically, make him more identifiable. No, as so often, the best way was the more direct and fastest. A Safety Stick.
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+It had looked wrong, right from the start.
+
+Alastor walked into the clinic from the Receiving Room to find a repeater, all right -- someone with the unblemished skin and youth of the rejuvenated. He was arguing in the middle of the clinic with a healer, who was calmly trying to redirect the repeater back into a cubicle.
+
+But there were also seven aurors.
+
+There was not any reason for there to be seven aurors. That was far too many. The three on shift here would have been sufficient, and an additional one from the Receiving Room would have been an abundance of caution. Sending four aurors in as reinforcement for a minor difficulty like this wasn’t just a waste of resources: it would actually cause the very problem that they tried to avoid when repeaters showed up. Repeaters needed to be soothed, reassured, and sent on their way without a fuss.
+
+Protocol was well-known. More than that, it was just common sense. And these weren’t new aurors to the Tower, either, he noticed. They were old hands; people with experience, and no known ties to any other power that he knew. But here they were, where they shouldn’t be, all standing in bunches.
+
+Time to address the likelihood that this was a Malfoy trap for him (or a trap by someone else).
+
+Alastor backed out of the clinic and turned to the auror standing farther down the corridor, the one he’d just passed. “Pirrip!”
+
+The idiot turned. “Sir?” He’d just cleared Alastor mere moments ago, exchanging passwords.
+
+“Go tell Harry that there’s something very suspicious with the repeater in the clinic. Then come back at speed. Bring another hand with you -- someone with battle experience,” Alastor barked, sharply. He waited just long enough to see Pirrip on the jump, then turned and strode back into the clinic.
+
+But scarcely was he inside before he heard a scream. He whirled to see that Pirrip hadn’t even made it out of sight down the corridor -- the young auror was down, thrashing on the ground. Gutclench Curse or something similar.
+
+Almost without thinking, Alastor sidestepped to the right, and without a pause charged into motion, out of the clinic. Behind him, he could hear voices shouting and spells being cast. Not all focused on him -- whatever this was, he still had allies. He barely thought about his reactions as he raised the purplish light of Azarian Fire behind him, throwing himself to the side once he was clear of the doorway to the clinic. The Fire erupted behind him with a rush of smoke, and he took the opportunity to crouch low and lean back around the doorway, snatching at the goblin-silver door just to one side. A spray of Bertram Bolts sizzled through the air over his head as he hauled at the door, and it smoothly slid into place.
+
+He needed to get to Harry. Alastor took off at a dead run.
+
+He didn’t pause over Pirrip, not even breaking stride as he sprinted down the corridor over the lad. He spared a look to his right as he went past the entrance, but he could already see that the Receiving Room aurors had sent two of their number to assist him (traitors to stab him in the back? No, Madagascar and Nimue hated each other, that hate was more reliable than most things) and so he could rely on the alert being raised.
+
+Down past the Advancement Agency, still sprinting, plucking a potion from his belt with his free hand and dropping it behind him, Alastor cursed. Whoever was behind this was causing chaos, but how could they think they’d win? That they’d get control of the Tower -- they didn’t even know what the Tower really was, or what happened here. Did they think to learn the “special webs” that made “Tower Transfiguration” possible here? Had they figured out the Stone… were they just trying to steal that? Alastor hoped that Harry had his wits about him, and that he’d put on one of the decoy gloves as soon as he was threatened. The decoys each had a fragment of an ancient and ruined cup embedded in their palm, where the Stone went in the real glove -- if anything was stolen, let it be one of them.
+
+But it was much worse than he thought. Charging around the corner, taking the turn at a momentary crouch, wand raised, he saw that they’d already gotten to Harry *oh Merlin oh no --*
+
+Harry was on the ground, and a knife was buried in his chest. Blood was spreading around him.
+
+*-- check behind, nothing, run forward, call for help, two bringing up the rear to watch your back --*
+
+There was so much blood already, was the boy already dead? His shoes were wrong. He had to be saved, he had to be saved, there was no one who could take his place, not really.
+
+*-- move to the side, wand up, there’s someone Disillusioned, see the shimmer, no bother with removal, wide-angle attack, get down --*
+
+He dropped into a crouch again and raised his wand to Vom Tag, reaching out with his mind. He focused his will into the necessary shape and pushed away from him the thought of a grandmother’s eyes and sparkling blue lights. It was devilishly tricky to aim, but he just needed to get it *out there* and he felt with relief the rush of arctic wind as it swept in a torrent away from his fingers, ripe with cold.
+
+He brought up more Azarian Fire in front of him almost in the same breath, but never took his eye off the corridor. The blur of distortion that was his enemy made a movement, redirecting his attack. A skillful turn. Foolish to do it so well, they revealed too much about their style. Possibly meant to tempt him into overconfidence.
+
+-- *no time for this, no time no time, use the arch you can make it secret again later like the last time --*
+
+Alastor whipped three rapid-fire curses at his opponent, buying a half-second to reach into his robes. He felt the metal ring in its pocket, and snatched it free. Lunging to the side, he snapped his wand forward, shouting a curse powerful enough that his own ears ached from the pressure of its passage.
+
+And he hurled a metal ring at his enemy, urging it to work. He needed it to work. He needed it to *save Harry*.
+
+The Arch of Ulak Unconquered, the most perfect prison ever devised, swelled impossibly as it sailed through the air. Within moments it had ceased to be a thing of physical reality, and had become a force of nature, transforming from a slender metal ring into a burnished hoop the size of a man.
+
+Alastor’s foe was fast: he had time to try two full spells as the Arch flew at him. Both spells, a rush of wind and a blaze of fire, were swallowed by the Arch so thoroughly that they might never have existed. The Arch was a thing unyielding and unknowable -- the last sanction of Alastor Moody, the reserve he retained against any betrayal.
+
+And then the Arch dropped down, encircling the enemy, and then the enemy was gone. There was only the empty metal hoop of the Arch resting on the stone, and Alastor brandishing his wand, and the aurors on his heels running in lockstep, and a dying Harry Potter-Evans-Verres. Whose shoes were wrong.
+
+Whose shoes were wrong.
+
+*Trap*.
+
+There was only a moment between the realization and unconsciousness, but that moment was long enough for Alastor to understand. A fake Harry meant a fake enemy, already in control of the Stone. That meant a fake attack. That meant a set-up in the clinic, assisted by the Receiving Room. That meant no one raised the alarm. That meant everyone was in on it.
+
+*Constant vigila*
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+After Moody was theirs, the two aurors took away Kraeme’s body, still transfigured into the shape of Harry. On Meldh’s instructions, they put it in the clinic for the moment, until arrangements could be made. The Arch was more difficult. Moody himself had to whisper arcane words to it before he could lift it, releasing Cedric from a prison so complete that the Head Auror had not even been aware of the passage of time.
+
+Everyone took a moment to recover.
+
+But only a moment.
+
+“Now, then,” said Meldh, turning to Harry. The Tower was blinking away tears, but with awkward shakes of his head that suggested he wasn’t aware of it. “I believe now is an excellent time to visit a certain black box.  There is a threat we need to address… and I think on a more permanent basis than you are willing to do.”
+
+Harry felt an ache within himself, but no conflict within his will. The new arrangement of his mind carried him forward, as inexorably as a satellite sailing through space, and he nodded readily.
+
+It was time to visit Voldemort.

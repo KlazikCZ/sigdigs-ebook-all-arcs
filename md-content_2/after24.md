@@ -1,0 +1,21 @@
+﻿<div class="postepi">
+Avis, jasmin varnā na ā ast, dadarka akvams, tam, vāgham\
+garum vaghantam, tam, bhāram magham, tam, manum āku\
+bharantam. Avis akvabhjams ā vavakat: kard aghnutai mai\
+vidanti manum akvams agantam.\
+Akvāsas ā vavakant: krudhi avai, kard aghnutai vividvant-svas:\
+manus patis varnām avisāms karnauti svabhjam gharmam\
+vastram avibhjams ka varnā na asti.\
+Tat kukruvants avis agram ā bhugat.\
+
+A sheep that had no wool saw horses, one of them pulling a\
+heavy wagon, one carrying a big load, and one carrying a man\
+quickly. The sheep said to the horses: "My heart pains me, seeing\
+a man driving horses."\
+The horses said: "Listen, sheep, our hearts pain us when we see\
+this: a man, the master, makes the wool of the sheep into a warm\
+garment for himself. And the sheep has no wool."\
+Having heard this, the sheep fled into the plain.\
+
+<cite>August Schleicher</cite>
+</div>

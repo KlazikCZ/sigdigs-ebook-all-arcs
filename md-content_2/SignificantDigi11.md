@@ -1,0 +1,195 @@
+﻿Parabolas
+======================
+
+
+
+
+*Hermione,*\
+*There is much unrest here. Much same in Ackle. I was admitted to Urgod Ur and spoke with most Urs, but feel I did not get whole picture. Many Urs, even the Jurg Hod, old allies of my line, speak only in surfaces. There is some hidden group, gathering together. Malfoy? Others?*
+
+*Worried. I am told there is a weapon stockpile by artificers, but hear denials when asking for curiosity. Traveling to Ackle tomorrow. Will owl from there.*
+<cite>*Urg*</cite>
+
+
+
+------------------------------------------------------------------------
+
+
+Once upon a time, Professor Sinistra had told Pip that he was a “poor student and a disappointment.” Coming from the notoriously quiet professor, it had been a pretty nasty insult. Pip had still Hufflepuffed away in Astronomy after that, but those words were probably why he’d never even considered advancing to an Astronomy N.E.W.T.
+
+Truth be told, he probably wouldn’t have stood much of a proper chance, anyway. Even though he’d never had a problem understanding the ideas involved, the whole ruddy subject just never worked properly for him. It was like there was a chunk missing from his head, and that chunk was the particular part that would have helped him sort out the difference between a Ganymede-shaped blotchy shadow on the surface of Jupiter or a Callisto-shaped blotchy shadow on the surface of Jupiter. They always just looked like… well, roundish blotches.
+
+It was funny, then, that Pip was a personal witness to the launch of the Tower’s space programme. There were many witnesses, of course: a few other aurors, most of the staff of Material Methods, a few researchers from the Extension Establishment, scattered people from six other departments, most of the Muggle researchers of the Tower, three Unspeakables, two journalists, and some observers from the Uagadou School of Magic and the Russell Institute.
+
+But *not* that snooty Professor Sinistra.
+
+“Philip Pirrip,” the history books would say, “was present at many events of enormous importance and expense in his capacity as Tower Auror. Known to be a personal friend and confidante of the Tower himself, Pirrip played an important role during key historical times. Although the handsome wizard would eventually lead the Department of Magical Law Enforcement, assisted by his predecessor and husband Cedric Diggory, and although he would go on receive the Order of Merlin for his work in forcing all the centaurs to speak in proper English, Pirrip would often describe his days working side-by-side with Harry Potter as some of his proudest moments. Professor Auror Sinistra, on the other hand, was just very good at counting the rings of Saturn.”
+
+Something like that, anyway.
+
+Kwannon was glaring at him. *Bugger. Need to stop daydreaming.*
+
+Pip stood just a little bit straighter, and plastered a grim look of attentive threat on his face. He scanned the crowd, looking for threats, and was relieved to see in his peripheral vision that Kwannon had turned her attention elsewhere.
+
+“Today,” said the Tower, “is rather an important day. The *Monroe*’s launch vehicle will reach the altitude of the intended Clarke orbit in less than twenty minutes, and then the satellite will kick free -- putting wizards in space for the first time in history.” There was a small smattering of applause at this last line, and Mr. Potter paused to smile for a moment. He was wearing the old-style robes of a Hogwart’s educator, formal black and complete with a string tie. Even his ponytail was tied back with a silk ribbon. “We have also learned that final testing is nearly complete on the Extension Establishment’s great masterpiece, as the latest version of their sliceboxes has proven to be twice as powerful and entirely stable. As we stand here today, they are undergoing final testing in the Remote Cautionary Platform of the Department of Mysteries, to which Madame Hopkirk has graciously granted us access for safety’s sake.” Mr. Potter gestured at the Venerable Unspeakable graciously, and she nodded in acknowledgement. 
+
+“In fact, I think we’ll have…” Mr. Potter paused a moment, glancing to someone in the crowd -- Percy Weasley, it looked like -- before continuing. “Yes, we’ll have a view of the sliceboxes in use. For some of you, this will be the fulfillment of years of work. For others, this will be where you finally learn what we’ve spent so much time and sweat doing. It’s… no, I better not spoil it, or Luna will be unhappy with me.” Mr. Potter shook his head in mock rue, still smiling. Ms. Lovegood, who was standing to the rear of the small crowd, looked up in surprise. She hadn’t been paying attention, and her narrow face looked a bit alarmed. But she smiled almost immediately after she sorted through the situation, as though it had just taken her a moment to get caught up to everyone else.
+
+“Auror Kraeme, if you please?” said Mr. Potter, gesturing at the wall to his right. “We’ll take a look -- a Byrd’s eye view, so to speak -- at what they have ready for us way down south at the RCP. Madame Umbridge you’ll… yes, thanks.” Madame Umbridge had a bubbler in front of her face, and she nodded impatiently at the Tower’s words. As best as Pip could gather, that foul lump of a woman was monitoring the proceedings in Russia, so they’d know when to watch the launch of the *Monroe*. She was wearing the white coat she’d been affecting lately, with a long pink scarf draped around her neck in folds.
+
+As prompted, Kraeme cast the Twoview Charm, tapping her wand on the wall indicated by Mr. Potter. The surface shivered at the touch, and the small gaps and cracks between the fitted stones appeared to melt into each other, subsiding and smoothing until the wall -- part of the main Material Methods manufactory room -- was a slick surface of wet-gleaming liquid stone. Almost immediately, shapes began to bubble up from within the stone, resolving into a sharp-edged grey image, while the rest of the enchanted wall seemed to recede away from the crowd.
+
+The features of Harry Madagascar were the first thing visible. The Tower Auror’s face swelled out of the wall, six feet high, bearded and serious. He said something, and the image wobbled up and down, as the sender on the other end of the spell nodded. “It’ll just be a moment, everyone,” said Mr. Potter, smiling wryly at the display. The sender moved, and Madagascar slipped out of sight. A grey-toned view of the Tower entrance slid up and out of the stone in his place. “Security protocols here are pretty strict, as you may know,” added Mr. Potter, and there were a few chuckles from the small crowd.
+
+Other colors were starting to billow up from within the stone, grainy reds, veined white, mottled yellow, and cobalt blue. They leeched into the Twoview image irregularly, coloring the golden arch of the Tower entrance before silvering the security hatch. The peach-colored tubes of a pair of Extendable Ears were just barely visible running along the floor, although the image wasn’t quite clear enough to make out that detail unless you already knew what they were (as Pip did). After a moment, the view shifted forward as the sender stepped up to the entrance. There was another wall of stone erected just within the Receiving Room, and it swelled to fill the view until all edges and lumps were out of sight: the Material Methods wall looked almost like it had before the spell, as it accurately reproduced the features of another wall at the other end of the Tower. One Twoview, then, was showing the audience an image of that wall, on which a second Twoview would produce an image -- a physical and slightly awkward way of bridging the powerful enchantments that locked the Tower facility away from scrying and spying.
+
+“Luna? You want to take us through this?” asked Mr. Potter. When the blonde witch nodded and began to walk around the perimeter of the room towards him, the Tower smiled. “I’ll give everyone a break from listening to me; Ms. Lovegood here will tell you about the slicebox worlds, and explain how they work.”
+
+The scientific prodigy Luna Lovegood, who was a year younger than Mr. Potter but had risen through sheer creative brilliance to become the leader of Tower projects in multiple departments, always had a sort of vague air about her. She was rumoured to be a seer, although that story might just have come from her long and famous involvement with her father’s newspaper. Pip thought that there was just a lot going on behind those big grey eyes, distracting her from the rest of the world -- sometimes to the point where she absent-mindedly walked into ruddy walls.
+
+“I entered into the slicebox project at the request of Nemeniah Salieri, who I worked with on-” she hesitated, “-another effort.” Ms. Lovegood stepped in front of the Twoview wall, and gestured up at an oblong swelling that was starting to appear across the whole of the view. It looked rather like a pocked Quaffle, deflated enough to look squashed at one end, or like an insect’s cocoon.
+
+“This is a model of what we have created by nesting our most powerful sliceboxes together. It takes advantage of the Elastic Law of Elasticity -- an extended space within another extended space loses some small and variable amount of its own capacity to extend space.” Ms. Lovegood sounded dreamy as she spoke, as if she were describing something other than the most boring bloody thing that Professor Flitwick ever put on an exam downstairs.
+
+The view behind the witch moved away, as the sender (some poor bloke had been condemned to that icy waste of a research station for this test) stepped away from the model. The Material Methods wall sank rapidly away from the audience until it reached the Twoview spell’s maximum few meters in apparent depth, but nothing came into sight -- the sender wasn’t looking at anything with enough detail to register on the spell. For a moment nothing was visible on the smooth grey stone.
+
+Then the sender turned again, and a broad dais snapped up into view. Resting in the middle was a brown satchel (or maybe burgundy -- the stained-stone colour was unclear), rather like one of the fancier dragonhide overnight bags. “And here we have it. A great deal of work, and one of the Tower’s first and most important projects. Just a prototype, of course.”
+
+Ms. Lovegood smiled airily, and turned away from the image to look out on the crowd. No one was reacting, except for a smiling Mr. Potter and a few of the obviously gleeful Extension Establishment researchers, who actually appeared to already be rather tipsy. A few of the other researchers were whispering among themselves, and the journalists, Unspeakables, and visitors looked baffled.
+
+“It’s a… oh, bother. Just a moment. He’ll be going inside in a moment.”
+
+“Surely it’s not… Madame Lovegood, am I missing something, here?” said the professor from the Russell Institute, a serious-looking fellow with a floppy brown hat. According to Pip’s briefing, he was an expert in their broomstick program, and one of the researchers for Varápidos Brooms.
+
+Ms. Lovegood didn’t answer, turning back to look at the wall behind her. The image jostled, stone shifting and sliding fluidly, as the sender approached the bag and opened it. He turned it on its side, and then the image dropped sickeningly as the sender lowered himself. The mouth of the bag lurched out of the wall, yawning wide enough to engulf a Welsh Green, and then the image fell entirely flat and grey once more.
+
+“Just wait…” said Ms. Lovegood, quietly. “And see what we did.”
+
+Inside the satchel was a whole bloody world.
+
+The Material Methods wall looked like a volcano had bloomed from the wall, as a hollow cone reached several meters forward. Within the cone, the sides fell away and out, stretching and diminishing until they were lost to the Twoview’s poor sight. The scale was hard to make out, but the satchel’s extended space had to be immense. Pip tore himself away from his surprise long enough to scan the crowd closely for threats, but soon found his eyes dragged back to the wall. There were all manner of extended spaces: handbags that had the capacity of a closet, and even tents the size of a small house. But this was… bigger.
+
+“One thousand, six hundred, and fifty-five sliceboxes, half-nesting within each other, like overlapping barnacles, each one with a kilometer-wide curved mouth” said Ms. Lovegood. “In some sense, that satchel contains some of a wooden box, which contains some of another wooden box, which contains some of another box, and so on… one thousand, six hundred, and fifty-five times. We lose a few percentage points of capacity each time, mostly from the height and width dimensions, but each box supplies a bit more volume to the total space as they overlap. Imagine… imagine a suit of goblin mail. Each scale overlaps the next, sheltering a larger area beneath. Each bubble of extended space adds on to the compounding space within the pocket.” She paused, and added, “The internal dimensions of the space -- of the pocket -- are about the size of Diagon Alley.”
+
+That last comment drew more of a response than anything, with some of those in the audience gasping. 
+
+“And we’re not done,” said the Tower, from his position to the left of the wall and Ms. Lovegood. “Right now, our prototype pocket world is the size of a small town. We’re working on layering together even more of the sliceboxes and pushing the boundaries out enough to contain entire biomes. Place the exterior slicebox -- or bag, or whatever -- in a protective shell, and you have portable, self-contained worlds.”
+
+“A prison,” said one of the journalists -- an American witch, the one who’d written about the integration facility, Siegfried’s, and the profile on Amycus Carrow when he had returned from his hideout on Cyprus (where he’d fled after his sister and her husband had been murdered by his former master, You-Know-Who). *Uncertain loyalties,*Pip thought, and this line of thought proved it. The journalist’s face was a pinched frown, and she added, “The perfect prison. That’s what you’ve built.”
+
+“What?” said the Tower, and the smile faded from his face. He turned cold green eyes on the interlocutor. “No. And it is a sad thing to see something so wonderful and seek out the darkest use for it.”
+
+“But it could be used that way, unless I’m wrong?” said the journalist. “The prisoners could even keep their wands, since they would pose no threat to anyone outside their prison, and if they destroyed it from within, they’d be killed in the process.”
+
+“That is a possibility… but it’s one of the least interesting ones,” said Mr. Potter. “These worlds will represent an end to nearly *all* existential risk. They will be places of nearly perfect, nearly unbreachable safety and security. They will be… *planets*.”
+
+“Acromantulas, cockatrices, erklings, tebos… there are many creatures that we spend much time restraining and preserving. No more. They can have their own escape-proof, Muggle-free world. Once we improve them to be large enough to have plants and animals that sustain themselves, we’ll no longer have to choose between periodic rampages and genocide,” suggested Ms. Lovegood, in a dreamy tone out of keeping with her words.
+
+“And right now we’re looking at an image from Antarctica, for safety’s sake. Imagine having a laboratory the size of a city, where you didn’t need to worry about degrees of caution for anyone but yourself!” added Mr. Potter, the smile appearing back on his face.
+
+“A lot of good wizards and witches will lose their positions, it sounds like, and only the wealthiest will be able to afford this,” ventured the American. “Will this have an impact on your economy?”
+
+“Yes, in the same way that the coffin-makers have suffered as the death rate has dropped,” said the Tower, and his sarcasm was cutting enough that some of the onlookers chuckled. “Gaspard Shingleton might have put a lot of professional stirrers out of work with his self-stirring cauldron, but that doesn’t mean his invention wasn’t wonderful… as anyone who struggled through first-year Potions can attest!” There was open laughter now, and the American fell silent.
+
+Ms. Umbridge chose this moment to look up from her bubbler and begin waving vigorously at the Tower, who turned to her, smiling. “Thank you, Madame Umbridge.” He raised his hands and addressed the crowd again. “Everyone, Madame Umbridge has signaled me to let me know that we are close to the launch -- our main event, don’t forget! Thank you, Ms. Lovegood.” The blonde witch nodded vaguely, and stepped quietly away, to return to her original spot. The Tower turned his attention to the Twoview wall, and crossed his arms expectantly. The RCP image -- that enormous cone -- slumped out of existence, and the surface of the wall was smoothly quiescent again.
+
+“All right, there we go. The launch will be soon,” said Mr. Potter. “We have a witch on-site in Kazakhstan, and so we’ll have an image up in a moment.”
+
+Someone in the audience raised their hand. That Vision Verge lady, Jeannette Lorge, Pip thought. Mr. Potter nodded at the woman.
+
+“Sir, for the launch... I thought that we were using a Russian rocket? It doesn’t really matter, but that’s what my team was told when we were working on this.”
+
+“Well, yes,” agreed the Tower, glancing to his right as he spoke. The wall was beginning to melt and shift again, and most of it was receding back away from the crowd. “The Muggles in Russia run their program out of a facility in Kazakhstan, though -- odd byproduct of a long-running political conflict in the Muggle world.”
+
+One of the other journalists in the crowd spoke up. “Excuse me, sir… isn’t that right between the Caucasus and the Ten Thousand? Depending on whether or not the Ten Thousand join the Independents… will the Ministry -- er, the Tower, that is -- will you continue to try to use that site in the future?”
+
+“I do not anticipate the need for very many other launches, so this shouldn’t be an ongoing concern. Or, wait…”  Mr. Potter frowned for a moment as he paused to think. To his right, the view was colouring again with chromatic streaks, and an object like a sausage swelled out of the wall, flanked by thin lattices. The lattices seemed to be bracing up the sausage -- the rocket, it must be, Pip realized. Their delicate strands looked like nothing so much as an unnaturally regular pair of stone spiderwebs.
+
+“No, I think I can safely say that there shouldn’t be any appreciable security concerns before too long,” finished the Tower. He turned to look at the image himself, and a grin began to spread on his face. It looked boyish, like a child tucking into his first Chocolate Frog. The entire exchange with the American journalist looked like it had been wiped away, leaving only delight in its place. “Madame Umbridge?”
+
+The squat Unspeakable -- or was she now a Tower researcher? -- still holding her bubbler in front of her, stepped up next to the Tower. She held the bubbler closer to her ear, so that she could hear what was being relayed to it (via Extendable Ear and a second pair of bubblers) from the sender at the launch site. “The launch will be taking place within the minute,” she said, her voice chirpy and bright. “The *Monroe* will be put into the space outside of the air around our planet, and it will stay there, flying overhead at a fixed rate.”
+
+Pip still couldn’t really picture it. He understood everything about it -- the Tower Aurors had all gotten a briefing from Umbridge and endured a question-and-answer session in which Gregor Nimue had asked all manner of mocking and sarcastic questions, and Umbridge had answered him with a murderous sweetness. But there’s a difference between grasping something Ravenclaw-style, and really understanding it well enough to use that knowledge. It was the difference between something for which you planned and something you could use *in* a plan. Professor Slughorn had called those the “knowables” and “useables,” in his puffed-up way.
+
+The sender approached closer to the launch vehicle, and the shape of the off-white rocket grew until the entire thing was just visible on the wall. “Madame Bogdanova of the Shichinin has kindly agreed to track the rocket as far as her Nimbus can go. Proper pictures will also be made available to the press, and more updates will follow… including pictures of the *Monroe* and our sfaironaut.”
+
+“ ‘Astronaut,’ ” interrupted Mr. Potter, turning to her and frowning. “He’s an astronaut.”
+
+“Sir, I spoke with several of our Muggle researchers and Madame Bogdonova about this, after our discussions about the launch site, and they agreed that we didn’t want to endorse one Muggle sphere of influence over another. So rather than ‘astronaut’ or ‘cosmonaut,’ we settled on a new term for a magical explorer of the celestial spheres.”
+
+“But-” said the Tower.
+
+“The parchments are already all printed up,” said Umbridge, smiling toadily. “Sorry if there was any confusion, Harry.”
+
+“Sfaironaut…” muttered Mr. Potter, crossing his arms.
+
+“The *Monroe* will represent our finest melding of magic and machine so far, with a built-to-order Muggle device providing the platform, monitored by a team of professionals in the Americas, but with the bulk of the satellite consisting of several devices… most particularly a custom-made Vanishing Cabinet. Further building, more satellites, and even the insertion of our sfaironaut and his ship will be the simplest of matters, thanks to the connected Cabinet down at the RCP.” She paused, glancing down at her bubbler. “We’ll count down when the Zenit is about to launch… feel free to join in on the count, everyone!” announced Umbridge, more loudly.
+
+One of the lattices supporting the rocket was moving away, slowly. The Tower and his audience all fixed their attention on the shape of the launch vehicle, crafted by the liquid stone of the Twoview spell and stained into colour by the natural tints of underlying rock.
+
+Pip wondered what sort of security was on site at Baikonur. There must be Muggle people with guns, of course, but there were probably any number of aurors stationed on guard. For operational security, that sort of thing was kept secret even from other aurors, but Pip suspected Moody, at least, must be in Kazakhstan. Moody was in the Tower only a few hours a day to test for security and read reports, and that had been the case for years.
+
+“Ten… nine… eight… seven… six…” began Umbridge, and half of the room join her, including Ms. Lovegood, Mr. Potter, and every single one of the Muggle and goblin researchers. Some of the more dignified witches and wizards, such as Madame Hopkirk, only smiled pleasantly instead.
+
+The stone at the bottom of the image of the rocket began to bubble and fizz, roiling out from the bottom of the rocket in clouds. Pip held his breath.
+
+“Five… four… three…”
+
+There was a sharp surge of reddish stone from within the thick grey clouds, as fire began to spray all around the base of the rocket. The Muggle technology seemed to be based around cramming an enormous load of the fire into the body of the rocket, Pip thought, and then shooting it out the bottom.
+
+“Two… one… lift-up!”
+
+The rocket lifted up. It moved surprisingly slowly. Pip would have thought it’d streak out of sight almost immediately, but it seemed as though it were struggling its way up, blasting curtains of fire along the way. It was amazing the thing was going anywhere, really; he should be impressed with what the Muggles had done with their limited circumstances. The whole thing was like a blastbomb just waiting to explode, but instead it was climbing into the sky and beyond.
+
+The even ground and whatever were those supporting lattices vanished a moment later, as the sender -- Ilya Bogdanova, Pip thought Umbridge had mentioned -- began flying upward to follow the rocket’s path. She must have already been on her broom, with whatever Charms she’d need (Warming Charm, Bubblehead Charm… others?).
+
+The image on the Material Methods wall was now an unsteady view of the white rocket, a flare of red and billowing column of smoke underneath, like a strangely tubular dragon on the attack. Pip glanced around, and saw Mr. Potter’s hands were clasped in front of him, tight, and his face looked as though he were having some higher experience.
+
+For almost five minutes, by Pip’s estimation, the sender followed the rocket as it got smaller and smaller. Eventually, the only thing in view was the thick bubbles of the wall’s stone that represented the column of smoke, drifting gently. The Twoview spell ended, and Kraeme took her wand off the wall. She stood up straight and stretched, working her wand arm stiffly in a circle.
+
+Everyone stared at Umbridge, who was on her bubbler again, her free hand plucking nervously at the folds of her scarf. After the passage of a tense minute, during which one of the journalists began to speak before being hushed urgently by a researcher, Umbridge looked up, smiling broadly. “Success! All stages complete, fairing jettisoned, and Sunnyvale reports good signal. They’re starting maneuvers.”
+
+Mr. Potter lowered his head, and heaved a heavy sigh, a smile still on his face. He turned to the crowd.
+
+“The Earth is a very small stage in a vast cosmic arena,” he said, intoning the word solemnly, as though quoting a sacred text. “Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot.”
+
+He folded his arms in front of him, and Pip could see something distant in his gaze; as though he were looking out on a vista unseen by everyone else. “For many generations, wizards have worried about the loss of magic, as the Interdict slowly erodes the most powerful lore wizardkind has mastered. Every passing century has seen the loss of some artifact. The Cup of Midnight, which could bind the world, was broken by the last partaker. Satomi’s Dogs, which gave life, were destroyed to break Grindelwald’s power. The Resurrection Stone, which could penetrate any world, was hidden by Voldemort. But even more worrying is the fact that everything is at risk, for there is just our one little world. Vengeful madmen, careless geniuses, and virulent mistakes… they put not just our lives at risk, but the existence of… of our very species.
+
+“Today marks the first step in changing that. Wizardkind -- humankind itself -- will no longer be bound to one earthly rock. And more than anything else I’ve ever done, I’m proud of my part in that. That may be hard for some people to understand but… I… I could die happily, if I had to. I’ve… done something. After all, ‘I have accomplished in life what I have intended and under what circumstances may one better die?’ ”
+
+There was some murmuring at this, and Pip flashed Kwannon a worried glance. She gave him a look in return, communicating with narrowed eyes, *Keep your mind on your business.*
+
+“It’s a new day, and great things are happening,” concluded the Tower. He turned to look at the blank wall, now mundane.
+
+“Thank you, everyone!” called out Senior Undersecretary Percy Weasley, as he stepped up out of the crowd, waving cheerily. “If everyone will just follow Auror Kraeme down the hall, we have some refreshments and fact-parchments available for you on the great table in the Conjuration Conjunction. Nothing conjured, despite the name, though -- don’t worry, ha ha!”
+
+The crowd began to filter out. Most of the aurors went with them, with the threat. Pip did, as well, leaving Kwannon alone with Mr. Potter. The Tower still stared at the wall, and seemed so very sad. It was a strange contrast with his earlier delight.
+
+The young auror sighed, and turned his attention to keeping an eye on the trickier and more unusual visitors. Couldn’t have a journalist go sneaking off.
+
+
+
+------------------------------------------------------------------------
+
+
+*Sometimes when I think about everything that’s happened in my life, and everything I’ve done, and everything I am, and just how much of it began on a single night in 1981… I see everything in my life as a sort of arc -- or maybe arcs -- these long trends bending all the way through in unbroken curves.*He thought back to his first meeting with Draco, and the way they’d immediately fallen into a pattern of simultaneous alliance and competition, leashed together by Harry’s own cleverness. He thought back to the his first interactions with Hermione, asking her to be his research assistant as though that were some kind of reward, even as she gently but consistently outshone him. And he thought about his ambition to sort the world into neat columns and sum them up into a single figure, an arrangement of digits that shunned death and pain, encompassed the stars, and reached towards knowledge with the joyous inevitability of a determined child learning to walk.
+
+And he thought about the single arc that undergirded them all, a tremendous single stroke of a line, bright-black and shiny and dark, that Voldemort had rooted in his flesh. A madman in his mind, shaping his thoughts and expectations and feelings.
+
+He’d had a loving home and wonderful parents. He’d had all the values and virtues of the Enlightenment. He’d mastered his dark side, suborned it to his use and subsumed it into his mind.
+
+But nonetheless, the night of the 31st of October had been -- would always be -- the black line that slashed through and behind everything. The arc that defined him.
+
+Somehow, he’d never altered the curve of any of these patterns. Draco, Hermione, optimization… even as he grew and matured and learned, everything kept taking the same shape.
+
+That black line… where would it end? Where would that dark parabola finally fall to earth?
+
+He’d bullied so many people over the years, forcing confrontations with Minerva and Dumbledore and Hermione and Draco and Kingsley and Moody and so many others. Forcing his way forward, because he saw the need. Even though he knew there would be a reckoning. Like a sword over his head, he could feel it waiting.
+
+Now he was doing great things, wonderful things. Things that would leave a mark on the world. When he’d been a child, he’d worried that he might never live up to his potential. Now, by any measure, he had done things to be proud of. Even up to the standards he should reach, he could be proud. But at this peak… he had to remember. He had to remember that black arc that cut through him -- that dark underpinning to his world and mind. That dark line, curving and waiting to plunge down to the earth.
+
+When would he pay the price that he’d forestalled for so long, with tricks and gambits and sheer ingenuity?
+
+Would his work be complete?
+
+Would it hurt?
